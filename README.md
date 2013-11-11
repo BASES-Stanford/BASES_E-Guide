@@ -5,6 +5,14 @@ The BASES Guide to Entrepreneurship at Stanford.
 
 Started October 31st, 2013.
 
+### Classes
+
+MS&E 273 Tech Venture Formations
+
+ENGR 245 Lean Startups
+
+MS&E 271 Global Entrepreneurial Marketing (GEM)
+
 ### Groups on Campus by Alphabetical Order
 
 Asia-Pacific Student Entrepreneurship Society
