@@ -247,3 +247,42 @@ http://www.gsbeclub.org/startup-resources
 ###Startup Resources
 GSB Entrepreneurship Club
 http://www.gsbeclub.org/startup-resources
+
+###Stanford Labs
+Aero Fluid Mechanics Laboratory
+Aerospace Robotics Laboratory
+Aircraft Aerodynamics and Design GroupArmy High-Performance Computing Research Center
+Army High-Performance Computing Research Center
+Bio-Inspired Flight Lab
+Biomotion Research Group
+Brown Institute for Media Innovation
+Center for Turbulence Research
+Center of Financial and Risk Analytics
+Center on Nanostructuring for Efficient Energy Conversion
+Virtual Human Interaction Lab
+Communication between Humans and Interactive Media
+Collaborative Haptics And Robotics in Medicine (CHARM) Lab
+Computer Systems Laboratory
+Edward L. Ginzton Laboratory
+Engineering Risk Research Group
+Environmental Fluid Mechanics Laboratory
+Flow Physics and Computational Engineering (FPCE) Group
+Geballe Laboratory for Advanced Materials (GLAM)
+Global Climate and Energy Project
+Gravity Probe B Project
+Hansen Experimental Physics Laboratory
+Hasso Plattner Institute of Design at Stanford (d.school)
+High Temperature Gasdynamics Laboratory
+Information Systems Laboratory
+Institute for Computational and Mathematical Engineering
+John A. Blume Earthquake Engineering Center
+Manufacturing Modeling Lab
+Max Planck Center for Visual Computing and Communication
+Nanoscale Prototyping Laboratory
+National Center for Engineering Pathways to Innovation (the Epicenter)
+Project-Based Learning Laboratory
+Product Realization Laboratory
+Simbios
+Smart Products Design Lab
+Stanford Artificial Intelligence Laboratory
+US-Asia Technology Management Center
