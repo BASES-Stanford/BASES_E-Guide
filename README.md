@@ -15,15 +15,7 @@ MS&E 472 Entrepreneurial Thought Leaders’ Seminar (http://etl.stanford.edu)
 
 MS&E 178 The Spirit of Entrepreneurship (companion course to MS&E 472)
 
-MS&E 375 Research on Entrepreneurship
-
-MS&E 491 Clean Energy Developement
-
-CS 546 Seminar on Liberation Technologies (intersection of social entrepreneurship, political science, and information technology) (liberationtechnology.stanford.edu) 
-
 ME206A+B Entrepreneurial Design for Extreme Affordability (extreme.stanford.edu)
-
-ME 421 European Entrepreneurship and Innovation Thought Leaders Seminar (http://www.europeanentrepreneursatstanford.com)
 
 EDUC 224 Social Entrepreneurship and Social Innovation (STRAMGT 367)
 
@@ -43,16 +35,6 @@ GSBGEN 313 Advanced Seminar on Social Entrepreneurship and Global Poverty
 
 GSBGEN 314 Creating High Potential Ventures in Developing Economies
 
-GSBGEN 525 From Business Concept to Business Plan (http://www.gsb.stanford.edu/ces/resources/business_plans.html)
-
-GSBGEN 553 "Intrapreneurship" for Sustainability: Driving Environmental Change from Within Corporations
-
-GSBGEN 586 Poverty, Entrepreneurship, and Development
-
-LAW 493 Entrepreneurship, Leadership and the Law Practicum
-
-LAW 543 Entrepreneurship, Leadership and Law in Social Enterprises
-
 MKTG 344 Marketing Research
 
 SOC 161 The Social Science of Entrepreneurship (SOC 261)
@@ -60,20 +42,6 @@ SOC 161 The Social Science of Entrepreneurship (SOC 261)
 STRAMGT 353 Entrepreneurship: Formation of New Ventures (http://libguides.stanford.edu/stramgt353)
 
 STRAMGT 354 Entrepreneurship and Venture Capital 
-
-STRAMGT 321 Create a New Venture: From Idea to Launch I
-
-STRAMGT 322 Create a New Venture: From Idea to Launch II
-
-STRAMGT 341 Achieving Social Impact
-
-STRAMGT 376 Entrepreneur Leader-Identity Development: A Critical-Incident Approach
-
-STRAMGT 508 Entrepreneurship from the Perspective of Women
-
-URBANST 121 Public Scholarship and Social Change
-
-URBANST 132 Concepts and Analytic Skills for the Social Sector
 
 AFRICAST 142 Challenging the Status Quo: Social Entrepreneurs Advancing Democracy, Development, and Justice (work with social entrepreneur in residence)
 
@@ -83,12 +51,7 @@ CHEMENG 196 Entrepreneurship in Engineering and Science-based Industries (CHEMEN
 
 COMM 140 Digital Media Entrepreneurship (http://dme.stanford.edu)
 
-EE 402T Entrepreneurship in Asian High-Tech Industries (http://asia.stanford.edu/?page_id=4636)
-
-// possibility of adding classes that enhance technical skills e.g., CS or EE
-
-
-
+EE 402T Entrepreneurship in Asian High-Tech Industries
 
 
 
@@ -256,3 +219,31 @@ Stanford Student Space Initiative
 Stanford Venture Capital Club
 
 Stanford Women in Business
+
+###Stanford Entrepreneurship Labs/Groups
+
+Stanford Technology Ventures Program (STVP)
+Thomas Byers: Creation and growth of high-technology ventures
+Kathleen Eisenhardt: Strategy and organization in high velocity industries
+Riitta Katila: Technology strategy and innovation
+Chuck Eesley: Strategy and technology entrepreneurship
+
+Stanford Venture Studio (SVS)
+Lifeswap: Product of SVS
+BipSync: Product of SVS
+Contact: Whitney Flynn
+
+Opportunistic Programming
+Professor Scott R. Klemmer's research group 
+
+MIT/Stanford Venture Lab
+Tom Clavel: Chairman
+Michael Chong: Vice Chair
+http://www.vlab.org
+
+Stanford GSB Entrepreneur Club
+http://www.gsbeclub.org/startup-resources
+
+###Startup Resources
+GSB Entrepreneurship Club
+http://www.gsbeclub.org/startup-resources
