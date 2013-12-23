@@ -57,19 +57,19 @@ EE 402T Entrepreneurship in Asian High-Tech Industries
 
 ### Groups on Campus by Alphabetical Order
 
-Asia-Pacific Student Entrepreneurship Society
+Asia-Pacific Student Entrepreneurship Society (http://ases.stanford.edu/)
 
-Business Association of Stanford Entrepreneurial Students (BASES)
+Business Association of Stanford Entrepreneurial Students (BASES) (http://bases.stanford.edu/)
 
-Society for Entrepreneurship in Latin America
+Society for Entrepreneurship in Latin America (http://sela.stanford.edu/)
 
-Stanford Energy Club
+Stanford Energy Club (http://energyclub.stanford.edu/)
 
-Stanford Law & Technology Association
+Stanford Law & Technology Association (http://slata.stanford.edu/)
 
-Stanford Student Space Initiative
+Stanford Student Space Initiative (http://spaceinitiative.stanford.edu/)
 
-Stanford Venture Capital Club
+Stanford Venture Capital Club (http://www.stanford.edu/group/gsb-vc/)
 
 Stanford Women in Business
 
