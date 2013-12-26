@@ -1,8 +1,18 @@
 ### Classes
 
-MS&E 273 Tech Venture Formations (http://www.stanford.edu/class/msande273/)
+MS&E 273 Tech Venture Formations:
+  For: Grad Students (& possibly perssistent undergads)
+  Essentially a trial run/roleplaying as being a founder at a start up. The experience aims to teach students about seeking angel investments, how to build a team, assess oppertunities, customer development, go-to-market stretegizing, and how to potenitally IP. The team is team of instructurs includes serial entreprenuers and venture capitalists. As a team students validate their business model using R&D plans and financial projections, as well as defining milestones for raising and utilizing venture capital. The 'Final' is an investment pitch delived to a panel of top teir VC partners. You must apply at http://www.stanford.edu/class/msande273. 
+  Teachers: Jack Fuchs, Michael Lyons, Audrey MacLean
+  For full description:http://www.stanford.edu/class/msande273/
+  
 
-MS&E 271 Global Entrepreneurial Marketing (GEM, travel to Hong Kong) (http://www.stanford.edu/class/msande271/)
+
+MS&E 271 Global Entrepreneurial Marketing (GEM, travel to Hong Kong):
+  For: All (must apply)
+  Using case studies on startubs and international high-tech firms, students will {hopefully} learn the skills needed to market new tech based products to international customers. Themes are: marketing toolkit, targeting markets and customers, product marketing and management, partners and distribution, sales and negotiation, and outbound marketing. Team-based take-home final exam. Limited enrollment. Admission by application.
+  Teachers: Lynda Smith, Thomas Kosnick
+  For more infornmation:http://www.stanford.edu/class/msande271/
 
 MS&E 472 Entrepreneurial Thought Leaders’ Seminar (http://etl.stanford.edu)
 
