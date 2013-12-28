@@ -75,12 +75,12 @@ As an "advanced" seminar, this course is designed for students with strong backg
 GSBGEN 314 Creating High Potential Ventures in Developing Economies 
   For: All
 This course addresses the distinctive challenges and opportunities of launching high-potential new ventures in developing economies. Developing economies are attractive targets for entrepreneurs because many are just starting to move up the growth curve, and they offer low-cost operating environments that can be great development labs for potentially disruptive innovations. They increase in attractiveness when their political institutions stabilize and they become more market-friendly. At the same time, developing economies pose serious challenges. Pioneering entrepreneurs take on significant risks to gain early mover advantages. Specifically, entrepreneurs will not be able to count on the same kind of supportive operating environments that we take for granted in the developed world. They often face cumbersome permit and licensing processes, poorly developed financial and labor markets, problematic import and export procedures, unreliable local supply chains, weak infrastructure, corruption, currency risks, limited investment capital, lack of financial exits and more. This course is designed to help would-be entrepreneurs better understand and prepare for these issues as they pursue the opportunities and address the challenges to start, grow, and harvest their ventures in these environments. (For entire description please see: http://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=GSBGEN+314+&collapse=)
-  Teachers: Howard Rosen, ENTER SECOND HERE
-  
-  
-  
+  Teachers: Howard Rosen, S. Ciesinski
   
 MKTG 344 Marketing Research
+  For: All (Unless GSB Grading means only GSB??)
+  Market intelligence is of value to firms. To understand their markets, firms need to answer questions such as: How large is the market for a product, what is important for the target segment? How does change in the product design affect profits? This course aims to help students ask relevant questions and find data-driven answers to them. The main objectives are to equip students with: 1) an understanding of the value of data - what intelligence it can and cannot provide, 2) exposure to state-of-the-art quantitative tools such as conjoint analysis and cluster analysis to analyze the data, and 3) sufficient hands-on experience with these tools for answering students' own marketing research questions from the perspective of an entrepreneur, marketer or a consultant. The course is designed to address substantive marketing problems such as: market segmentation, targeting, forecasting demand, pricing, and developing new products. 
+  Teachers:Navdeep Sahni 
 
 SOC 161 The Social Science of Entrepreneurship (SOC 261)
   For: All, Grad Students take SOC 261
@@ -88,16 +88,37 @@ SOC 161 The Social Science of Entrepreneurship (SOC 261)
   Teacher: Patricia Helmke Thornton
 
 STRAMGT 353 Entrepreneurship: Formation of New Ventures (http://libguides.stanford.edu/stramgt353)
-
+  For: GSB Students
+  This course is offered for students who at some time may want to undertake an entrepreneurial career by pursuing opportunities leading to partial or full ownership and control of a business. The 2013-14 spring quarter section, taught by Russ Siegelman and Laura Hattendorf, will exclusively focus on social ventures and is not recommended for students NOT interested in social ventures. The course deals with case situations from the point of view of the entrepreneur/manager rather than the passive investor. Many cases involve visitors, since the premise is that opportunity and action have large idiosyncratic components. Students must assess opportunity and action in light of the perceived capabilities of the individuals and the nature of the environments they face. The course is integrative and will allow students to apply many facets of their business school education. Each section will have a specific focus, please select the instructor(s) with your interests: Leslie, Siegelman - High tech ventures Ellis, Chambers, Childs - Diverse types of ventures Ellis, Foster - Diverse types of ventures Siegel, Brady - High tech emphasis, but diverse types of ventures Siegelman, Hattendorf - Social ventures Reiss, Chess - Very early stage ventures.
+  Teachers: Russ Siegelman and Laura Hattendorf, as well as the afore mentioned section leaders.
+  
 STRAMGT 354 Entrepreneurship and Venture Capital 
+  For: GSB Students
+  Many of America's most successful entrepreneurial companies have been substantially influenced by professionally managed venture capital. This relationship is examined from both the entrepreneur's and the venture capitalist's perspective. From the point of view of the entrepreneur, the course considers how significant business opportunities are identified, planned, and built into real companies; how resources are matched with opportunity; and how, within this framework, entrepreneurs seek capital and other assistance from venture capitalists or other sources. From the point of view of the venture capitalist, the course considers how potential entrepreneurial investments are evaluated, valued, structured, and enhanced; how different venture capital strategies are deployed; and how venture capitalists raise and manage their own funds. The course includes a term-long project where students work in teams (4-5 students per team) to write a business plan for a venture of the team's choosing.
+  Teachers: Peter Wendell, P. Ziebelman, John Glynn
+  
+AFRICAST 142 Challenging the Status Quo: Social Entrepreneurs Advancing Democracy, Development, and Justice (work with social entrepreneur in residence): 
+  For: All
+This seminar is part of a broader program on Social Entrepreneurship at CDDRL. It will use practice to better inform theory. Working with three visiting social entrepreneurs from developing and developed country contexts students will use case studies of successful and failed social change strategies to explore relationships between social entrepreneurship, gender, democracy, development and justice. It interrogates current definitions of democracy and development and explores how they can become more inclusive of marginalized populations. This is a service learning class in which students will learn by working on projects that support the social entrepreneurs' efforts to promote social change. 
+  Teachers: K. Kelly
 
-AFRICAST 142 Challenging the Status Quo: Social Entrepreneurs Advancing Democracy, Development, and Justice (work with social entrepreneur in residence)
-
-CEE 246 Entrepreneurship in Civil and Environmental Engineering 
+CEE 246 Entrepreneurship in Civil and Environmental Engineering:
+  For: All
+Developing and implementing successful strategies for all kinds of companies in the architecture-engineering-construction industry. Develop a strategy for, and paly different management roles in, a simulated construction company. Develop business plans for a new company or new business activity within an existing company in this industry. Prerequisites: introductory engineering economy course such as E60 or CEE 246a; introductory accounting course such as CEE 244A, or MS&E 140 (on-line class available to meet prerequisites -- contact instructor). Instructions for applying to enroll are on the coursework website. 
+  Teachers: Jack Herman Fuchs, Raymond Levitt, Michael Lyons
 
 CHEMENG 196 Entrepreneurship in Engineering and Science-based Industries (CHEMENG 296) (https://energy.stanford.edu/entrepreneurship-engineering-and-science-based-industries-chemeng-296)
+  For: Seniors and Grad Students
+Open to sudents interested in entrepreneurship in engineering and science intensive industries such as chemical, energy, materials, bioengineering, environmental, clean-tech, pharmaceuticals, medical, and biotechnology. Exploration of the dynamics, complexity, and challenges that define entrepreneurship, particularly for companies that require long development times, large investments, integration across a wide range of technical and non-technical disciplines, and the creation and protection of intellectual property. Covers business basics, opportunity viability, creating start-ups, entrepreneurial leadership, and entrepreneurship as a career. 
+  Teachers: R. Levy, Howard Rosen
 
-COMM 140 Digital Media Entrepreneurship (http://dme.stanford.edu)
+COMM 140 Digital Media Entrepreneurship (AKA COMM 240) (http://dme.stanford.edu)
+  For: All, Grad-Students register for 240
+Primarily for graduate journalism and computer science students. Silicon Valley's new media culture, digital storytelling skills and techniques, web-based skills, and entrepreneurial ventures. Guest speakers.
+  Teachers: Ann Grimes
 
-EE 402T Entrepreneurship in Asian High-Tech Industries
+EE 402T Entrepreneurship in Asian High-Tech Industries:
+  For: All
+  Distinctive patterns and challenges of entrepreneurship in Asia; update of business and technology issues in the creation and growth of start-up companies in major Asian economies. Distinguished speakers from industry, government, and academia. 
+  Teachers: Not given
 
