@@ -72,11 +72,20 @@ As an "advanced" seminar, this course is designed for students with strong backg
 
 
 
-GSBGEN 314 Creating High Potential Ventures in Developing Economies
-
+GSBGEN 314 Creating High Potential Ventures in Developing Economies 
+  For: All
+This course addresses the distinctive challenges and opportunities of launching high-potential new ventures in developing economies. Developing economies are attractive targets for entrepreneurs because many are just starting to move up the growth curve, and they offer low-cost operating environments that can be great development labs for potentially disruptive innovations. They increase in attractiveness when their political institutions stabilize and they become more market-friendly. At the same time, developing economies pose serious challenges. Pioneering entrepreneurs take on significant risks to gain early mover advantages. Specifically, entrepreneurs will not be able to count on the same kind of supportive operating environments that we take for granted in the developed world. They often face cumbersome permit and licensing processes, poorly developed financial and labor markets, problematic import and export procedures, unreliable local supply chains, weak infrastructure, corruption, currency risks, limited investment capital, lack of financial exits and more. This course is designed to help would-be entrepreneurs better understand and prepare for these issues as they pursue the opportunities and address the challenges to start, grow, and harvest their ventures in these environments. (For entire description please see: http://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=GSBGEN+314+&collapse=)
+  Teachers: Howard Rosen, ENTER SECOND HERE
+  
+  
+  
+  
 MKTG 344 Marketing Research
 
 SOC 161 The Social Science of Entrepreneurship (SOC 261)
+  For: All, Grad Students take SOC 261
+  Who is likely to become an entrepreneur and where is entrepreneurship likely to occur? Classic and contemporary theory and research. Interaction with expert practitioners in creating entrepreneurial opportunities including venture and corporate capitalists. The role of culture, markets, hierarchies, and networks. Market creation and change, and factors that affect success of new organizations. Field projects on entrepreneurial environments such as technology licensing offices, entrepreneurial development organizations, venture capital firms, and corporate venturing groups.
+  Teacher: Patricia Helmke Thornton
 
 STRAMGT 353 Entrepreneurship: Formation of New Ventures (http://libguides.stanford.edu/stramgt353)
 
