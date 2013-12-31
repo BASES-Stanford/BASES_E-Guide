@@ -1,7 +1,7 @@
 ### Groups by Category
 
 
-Graduate School of Business (GSB):
+### Graduate School of Business (GSB):
 
 Center for Entrepreneurial Studies
 
@@ -63,7 +63,7 @@ Office of Technology Licensing
 
 TomKat Innovation Transfer Program
 
-School of Medicine
+### School of Medicine
 
 Biodesign
 
