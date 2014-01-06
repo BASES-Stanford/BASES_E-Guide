@@ -1,7 +1,6 @@
 ### Groups on Campus by Alphabetical Order
 
 Asia-Pacific Student Entrepreneurship Society 
-
 Brief: ASES (Asia-Pacific Student Entrepreneurship Society) is a student organization whose mission is to educate and network the future leaders in business, technology and the Asia-Pacific in order to foster a global entrepreneurship society.
 Website: http://ases.stanford.edu/
 Contact:  Kuan Peng (President)-kuanp@stanford.edu
@@ -32,66 +31,159 @@ Website:http://slata.stanford.edu/
 Contact: Co-Presidents: Jonathan Schatz-jtschatz@gmail.com and Lisa Li-lxl1@stanford.edu
 More: Lawyers and policymakers speak about issues that explore technology and law, technology resources for students including and online bookstore and course outlines database
 
-Stanford Student Space Initiative (http://spaceinitiative.stanford.edu/)
+Stanford Student Space Initiative
+Brief:
+Website: http://spaceinitiative.stanford.edu/
+Contact: 
 
 Stanford Venture Capital Club (http://spaceinitiative.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 Stanford Women in Business (http://www.stanfordwomeninbusiness.com/)
+Brief:
+Website:
+Contact:
 
 Center for Entrepreneurial Studies (GSB) (http://www.gsb.stanford.edu/ces)
+Brief:
+Website:
+Contact:
 
 Center for Social Innovation (GSB) (http://csi.gsb.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 Graduate School of Business (GSB) Entrepreneur Club (http://www.gsbeclub.org/)
+Brief:
+Website:
+Contact:
 
 GSB Energy Club (http://gsbenergyclub.wordpress.com/)
+Brief:
+Website:
+Contact:
 
 Stanford Institute for Innovation in Developing Economies (SEED) (GSB) (https://seed.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 Stanford Program on Regions of Innovation and Entrepreneurship (GSB) (http://sprie.gsb.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 Stanford Venture Studio (GSB) (http://www.gsb.stanford.edu/ces/students/venture-studio)
+Brief:
+Website:
+Contact:
 
 Asia Technology Initiative (http://ati.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 Epicenter (National Center for Engineering Pathways to Innovation) (http://epicenter.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 Stanford Institute for Electrical and Electronics Engineers (http://ieee.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 Stanford Technology Ventures Program (http://stvp.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 US-Asia Technology Management Center (http://asia.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 AIMS (Association of Industry-Minded Stanford Professionals) (https://sen.stanford.edu/member/aims-association-industry-minded-stanford-professionals)
+Brief:
+Website:
+Contact:
 
 Cross-disciplinary Healthcare Innovation Partnership at Stanford (http://healthcare.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 European Entrepreneurship & Innovation (http://www.europeanentrepreneursatstanford.com/)
+Brief:
+Website:
+Contact:
 
 Hasso Plattner Institute of Design (d.school) (http://dschool.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 Stanford IP Innovation Society (http://sen.stanford.edu/member/stanford-ip-innovation-society)
+Brief:
+Website:
+Contact:
 
 Stanford Media X (http://mediax.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 Start X (http://startx.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 The Precourt Institute for Energy (https://energy.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 Woods Institute for the Environment (https://woods.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 Graduate Program in Journalism: Digital Media at Stanford (http://journalism.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 Office of Technology Licensing (http://otl.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 TomKat Innovation Transfer Program (http://tomkat.stanford.edu/innovation/)
+Brief:
+Website:
+Contact:
 
 Biodesign (http://biodesign.stanford.edu/bdn/index.jsp)
+Brief:
+Website:
+Contact:
 
 School of Medicine Career Center (http://med.stanford.edu/careercenter/)
+Brief:
+Website:
+Contact:
 
 Stanford Law School Entrepreneurship Club (http://www.law.stanford.edu/organizations/student-organizations/sls-entrepreneurship-club)
+Brief:
+Website:
+Contact:
 
 Stanford School of Medicine SPARK (http://sparkmed.stanford.edu/)
+Brief:
+Website:
+Contact:
 
 
