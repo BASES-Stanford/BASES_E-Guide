@@ -1,25 +1,36 @@
-
 ### Groups on Campus by Alphabetical Order
 
-Asia-Pacific Student Entrepreneurship Society (http://ases.stanford.edu/)
-President: Kuan Peng
-About: Startup Office Hours (work on startup ideas with an expert in the field), VC3 ("speed dating"--connecting with Venture Capitalists), Sartup Bootcamp (members form groups to work on ideas with community impact throughout the year), Intern Program (paired with alumni mentors to work on different projects throughout the year) 
+Asia-Pacific Student Entrepreneurship Society 
 
-Business Association of Stanford Entrepreneurial Students (BASES) (http://bases.stanford.edu/)
-Co-Presidents: John Yang-Sammataro and Alexander Lin
-About: Challenges: Social E-challenge (prize money for team with best business model to create social impact), Entrepreneurship Challenge (prize money for team with best usiness idea), Product Showcase (prize money awarded to best product prototypes); E-Bootcamp (participants engage in pitching and design workshops and present products to investors in a competition), Entrepreneurial Thought Leaders' Seminar (students sign up for a class attend a weekly speaker series), Startup Career Fair (networking and recruiting opportunities with companies), BASES Digest (event newsletter about entrepreneurship and internship opporunities), Hackspace (students code and create ideas), Freshman Battalion (year-long Freshman immersion program)           
+Brief: ASES (Asia-Pacific Student Entrepreneurship Society) is a student organization whose mission is to educate and network the future leaders in business, technology and the Asia-Pacific in order to foster a global entrepreneurship society.
+Website: http://ases.stanford.edu/
+Contact:  Kuan Peng (President)-kuanp@stanford.edu
+More: Startup Office Hours (work on startup ideas with an expert in the field), VC3 ("speed dating"--connecting with Venture Capitalists), Sartup Bootcamp (members form groups to work on ideas with community impact throughout the year), Intern Program (paired with alumni mentors to work on different projects throughout the year) 
 
-Society for Entrepreneurship in Latin America (http://sela.stanford.edu/)
-Contact: Anais Saint-Jude anais.saint-jude@stanford.edu
-About: Chapters at universities in Argentina, Brazil, Chile, Colombia, Mexico, and El Salvador     
 
-Stanford Energy Club (http://energyclub.stanford.edu/)
-President: Caleb Morse
-ABout: Panel discussions, site visits to companies in the Bay area, weekly digest for energy-related jobs
+Business Association of Stanford Entrepreneurial Students (BASES) 
+Brief: Challenges: Social E-challenge (prize money for team with best business model to create social impact), Entrepreneurship Challenge (prize money for team with best usiness idea), Product Showcase (prize money awarded to best product prototypes); E-Bootcamp (participants engage in pitching and design workshops and present products to investors in a competition), Entrepreneurial Thought Leaders' Seminar (students sign up for a class attend a weekly speaker series), Startup Career Fair (networking and recruiting opportunities with companies), BASES Digest (event newsletter about entrepreneurship and internship opporunities), Hackspace (students code and create ideas), Freshman Battalion (year-long Freshman immersion program)  
+Website: http://bases.stanford.edu/
+Contact: Co-Presidents: John Yang-Sammataro-johnys@stanford.edu and Alexander Lin-alin719@stanford.edu
 
-Stanford Law & Technology Association (http://slata.stanford.edu/)
-Co-Presidents: Jonathan Schatz and Lisa Li
-About: Lawyers and policymakers speak about issues that explore technology and law, technology resources for students including and online bookstore and course outlines database
+
+Society for Entrepreneurship in Latin America 
+Brief: The Society for Entrepreneurship in Latin America aims to create and educate a network of future leaders in business, technology, and social innovation in the Americas in order to foster a global entrepreneurship community aware of Latin American affairs.
+Website: http://sela.stanford.edu/
+Contact: Yael Wulfovich (President)-yaelw@stanford.edu; Anais Saint-Jude-anais.saint-jude@stanford.edu
+More: Chapters at universities in Argentina, Brazil, Chile, Colombia, Mexico, and El Salvador     
+
+Stanford Energy Club 
+Brief: The Stanford Energy Club strives to bring together Stanford students, scholars and local professionals of all levels, regardless of discipline, who are interested in energy issues.
+Website: http://energyclub.stanford.edu/
+Contact: Caleb Morse (President)-cbmorse@stanford.edu
+More: Panel discussions, site visits to companies in the Bay area, weekly digest for energy-related jobs
+
+Stanford Law & Technology Association
+Brief:Since 1984 the Stanford Law and Technology Association (SLATA) has engaged the Stanford community with thought leaders at the intersections of law, policy, science, and technology. SLATA’s events foster a vibrant intellectual dialogue about the novel and challenging legal questions that coincide with technological innovation.For Stanford Law students, SLATA brings in lawyers, academics, and policy makers to speak about cutting edge issues at the intersection of law and technology, introducing students to the people dealing with these issues every day. SLATA also maintains several technology resources for students, including online bookstores that sponsor student benefits and a comprehensive database of course outlines.
+Website:http://slata.stanford.edu/ 
+Contact: Co-Presidents: Jonathan Schatz-jtschatz@gmail.com and Lisa Li-lxl1@stanford.edu
+More: Lawyers and policymakers speak about issues that explore technology and law, technology resources for students including and online bookstore and course outlines database
 
 Stanford Student Space Initiative (http://spaceinitiative.stanford.edu/)
 
