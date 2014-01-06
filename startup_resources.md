@@ -18,3 +18,9 @@ Center for Social Innovation (GSB) (http://csi.gsb.stanford.edu/)
 Brief:
 Website:
 Contact:
+
+
+Stanford Program on Regions of Innovation and Entrepreneurship (GSB) 
+Brief:
+Website: http://sprie.gsb.stanford.edu/
+Contact:
