@@ -6,7 +6,6 @@ Website: http://ases.stanford.edu/
 Contact:  Kuan Peng (President)-kuanp@stanford.edu
 More: Startup Office Hours (work on startup ideas with an expert in the field), VC3 ("speed dating"--connecting with Venture Capitalists), Sartup Bootcamp (members form groups to work on ideas with community impact throughout the year), Intern Program (paired with alumni mentors to work on different projects throughout the year) 
 
-
 Business Association of Stanford Entrepreneurial Students (BASES) 
 Brief: Challenges: Social E-challenge (prize money for team with best business model to create social impact), Entrepreneurship Challenge (prize money for team with best usiness idea), Product Showcase (prize money awarded to best product prototypes); E-Bootcamp (participants engage in pitching and design workshops and present products to investors in a competition), Entrepreneurial Thought Leaders' Seminar (students sign up for a class attend a weekly speaker series), Startup Career Fair (networking and recruiting opportunities with companies), BASES Digest (event newsletter about entrepreneurship and internship opporunities), Hackspace (students code and create ideas), Freshman Battalion (year-long Freshman immersion program)  
 Website: http://bases.stanford.edu/
@@ -46,100 +45,56 @@ Brief: Stanford Women in Business educates women pursuing careers in business fi
 Website: http://www.stanfordwomeninbusiness.com/
 Contact: Lauryn Isford (President)- ljisford@stanford.edu
 
-Center for Entrepreneurial Studies (GSB) (http://www.gsb.stanford.edu/ces)
+
+
+Graduate School of Business (GSB) Entrepreneur Club 
+Brief: The GSB Entrepreneurship Club is one of the oldest student-run entrepreneur's clubs in the nation. The current incarnation of the club has its roots in the late 1970s, when many of the individual student initiatives around small businesses and entrepreneurialism coalesced into a single student-lead club. In 1993, the e-club under the leadership of Ken Hawk sponsored the first E-Conference on Entrepreneurship, with 150 people attending the day-long event. The conference has since grown to be the largest annual conference dedicated to entrepreneurship in the world. Today the Entrepreneur Club is the most active student-run club within the GSB community. We have over 300 members and last year the club organized more than 50 events for over 1,100 attendants. The goal of the current GSB Entrepreneurship Club is to stimulate interest in entrepreneurialism among GSB students and other members of the Stanford community. We are passionate about building sustainable ventures and want to provide our members a lifelong learning & support platform to minimize risk and to maximize success in ventures. We want to promote entrepreneurial mind-set both as a founder or manager of a start-up as well as in the roles of an investor, advisor, or corporate partner. 
+Website: http://www.gsbeclub.org/
+Contact: General Club Email: eclub_exec_team@gsb.stanford.edu
+
+Stanford Institute for Innovation in Developing Economies (SEED) (GSB) 
+Brief: The Stanford Institute for Innovation in Developing Economies (SEED) seeks to stimulate the creation of economic opportunities through innovation, entrepreneurship, and the growth of businesses that change the lives of people who live in poverty around the world.
+Website: https://seed.stanford.edu/
+Contact: seed_inbox@stanford.edu
+Other Locations: Accra, Ghana;
+
+
+Stanford Venture Studio (GSB) 
+Brief: The Stanford Venture Studio is a vibrant learning facility for Stanford graduate students across all disciplines who want to learn about designing and creating sustainable, high-impact ventures by testing what they are learning in the classroom. The Stanford Venture Studio provides a supportive, resourced environment, where students benefit from being immersed in the Stanford entrepreneurial community. 
+Website: http://www.gsb.stanford.edu/ces/students/venture-studio
+Contact:sprie-stanford@stanford.edu
+More: SPRIE maling list: sprie-seminar-join@lists.stanford.edu.
+
+Epicenter (National Center for Engineering Pathways to Innovation) 
+Brief: Epicenter offers entrepreneurship and innovation programs for engineering faculty and students; partners with leaders in academia and government to build a national entrepreneurship agenda in engineering; conducts research on higher education models; hosts online classes and resources; and forms communities around entrepreneurship in engineering education.
+Website: http://epicenter.stanford.edu/
+Contact: Leticia Britos Cavagnaro (Associate Director)-britos@stanford.edu; Comments or questions may be sent to epicenter@stanford.edu
+
+Stanford Institute for Electrical and Electronics Engineers 
+Brief: Stanford IEEE is Stanford's student chapter of the Institute of Electrical and Electronics Engineers (IEEE). We're a group of electrical engineering and computer science students (undergrad and graduate) who want to have fun and meet new people, to learn about research and innovation in technology, to find ourselves and our passions, to help our community, and to get inspired to change the world!
+Website: http://ieee.stanford.edu/
+Contact: General/Chair-ieee@ee.stanford.edu
+
+Stanford Technology Ventures Program (fill out)...
 Brief:
-Website:
+Website: http://stvp.stanford.edu/
+Contact: 
+
+AIMS (Association of Industry-Minded Stanford Professionals) 
+Brief:
+Website: https://sen.stanford.edu/member/aims-association-industry-minded-stanford-professionals
 Contact:
 
-Center for Social Innovation (GSB) (http://csi.gsb.stanford.edu/)
+Cross-disciplinary Healthcare Innovation Partnership at Stanford 
 Brief:
-Website:
+Website: http://healthcare.stanford.edu/
 Contact:
 
-Graduate School of Business (GSB) Entrepreneur Club (http://www.gsbeclub.org/)
+European Entrepreneurship & Innovation 
 Brief:
-Website:
+Website: http://www.europeanentrepreneursatstanford.com/
 Contact:
 
-GSB Energy Club (http://gsbenergyclub.wordpress.com/)
-Brief:
-Website:
-Contact:
-
-Stanford Institute for Innovation in Developing Economies (SEED) (GSB) (https://seed.stanford.edu/)
-Brief:
-Website:
-Contact:
-
-Stanford Program on Regions of Innovation and Entrepreneurship (GSB) (http://sprie.gsb.stanford.edu/)
-Brief:
-Website:
-Contact:
-
-Stanford Venture Studio (GSB) (http://www.gsb.stanford.edu/ces/students/venture-studio)
-Brief:
-Website:
-Contact:
-
-Asia Technology Initiative (http://ati.stanford.edu/)
-Brief:
-Website:
-Contact:
-
-Epicenter (National Center for Engineering Pathways to Innovation) (http://epicenter.stanford.edu/)
-Brief:
-Website:
-Contact:
-
-Stanford Institute for Electrical and Electronics Engineers (http://ieee.stanford.edu/)
-Brief:
-Website:
-Contact:
-
-Stanford Technology Ventures Program (http://stvp.stanford.edu/)
-Brief:
-Website:
-Contact:
-
-US-Asia Technology Management Center (http://asia.stanford.edu/)
-Brief:
-Website:
-Contact:
-
-AIMS (Association of Industry-Minded Stanford Professionals) (https://sen.stanford.edu/member/aims-association-industry-minded-stanford-professionals)
-Brief:
-Website:
-Contact:
-
-Cross-disciplinary Healthcare Innovation Partnership at Stanford (http://healthcare.stanford.edu/)
-Brief:
-Website:
-Contact:
-
-European Entrepreneurship & Innovation (http://www.europeanentrepreneursatstanford.com/)
-Brief:
-Website:
-Contact:
-
-Hasso Plattner Institute of Design (d.school) (http://dschool.stanford.edu/)
-Brief:
-Website:
-Contact:
-
-Stanford IP Innovation Society (http://sen.stanford.edu/member/stanford-ip-innovation-society)
-Brief:
-Website:
-Contact:
-
-Stanford Media X (http://mediax.stanford.edu/)
-Brief:
-Website:
-Contact:
-
-Start X (http://startx.stanford.edu/)
-Brief:
-Website:
-Contact:
 
 The Precourt Institute for Energy (https://energy.stanford.edu/)
 Brief:
