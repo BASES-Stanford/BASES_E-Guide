@@ -24,3 +24,10 @@ Stanford Program on Regions of Innovation and Entrepreneurship (GSB)
 Brief:
 Website: http://sprie.gsb.stanford.edu/
 Contact:
+
+US-Asia Technology Management Center 
+Brief: The goal of US-ATMC educational programs is to provide Stanford students in various technical fields, and the science and engineering research community at large, with knowledge and analytical capabilities in our areas of focus that will be important to success in the Twenty-First Century. At the same time, the US-ATMC provides unique resources to Stanford’s research infrastructure for following and analyzing international trends in selected research areas. As part of our practical focus, the US-ATMC aims to promote meaningful interaction between the university and industry through an active outreach program of public events and Internet-based information exchange. US-ATMC activities include public lecture series and seminars (including live teleconferenced events between the U.S. and Asia), sponsorship of faculty research projects, development and delivery of new university courses, and major Internet web site projects. 
+Website: http://asia.stanford.edu/
+Contact: Richard Dasher (Dasher)-rdasher@stanford.edu, Siejen Yin-Stevenson-siejeny@stanford.edu
+
+
