@@ -31,3 +31,26 @@ Website: http://asia.stanford.edu/
 Contact: Richard Dasher (Dasher)-rdasher@stanford.edu, Siejen Yin-Stevenson-siejeny@stanford.edu
 
 
+
+
+Hasso Plattner Institute of Design (d.school) 
+Brief:
+Website: http://dschool.stanford.edu/
+Contact:
+
+Stanford IP Innovation Society 
+Brief:
+Website: http://sen.stanford.edu/member/stanford-ip-innovation-society
+Contact:
+
+Stanford Media X 
+Brief:
+Website: http://mediax.stanford.edu/
+Contact:
+
+Start X 
+Brief:
+Website: http://startx.stanford.edu/
+Contact:
+
+
