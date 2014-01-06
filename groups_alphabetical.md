@@ -32,19 +32,19 @@ Contact: Co-Presidents: Jonathan Schatz-jtschatz@gmail.com and Lisa Li-lxl1@stan
 More: Lawyers and policymakers speak about issues that explore technology and law, technology resources for students including and online bookstore and course outlines database
 
 Stanford Student Space Initiative
-Brief:
+Brief: Our mission is to change the space culture at Stanford by cultivating space entrepreneurship and strengthening the Stanford space community.
 Website: http://spaceinitiative.stanford.edu/
-Contact: 
+Contact: David Gerson-dtgerson@stanford.edu
 
-Stanford Venture Capital Club (http://spaceinitiative.stanford.edu/)
-Brief:
-Website:
-Contact:
+Stanford Venture Capital Club 
+Brief: SVCC is a student-run organization that assists venture capital firms in identifying investment opportunities and educates students about the venture capital industry.
+Website: http://vc.stanford.edu/cgi-bin/wordpress/
+Contact:Konstantine Buhler (President)-buhler@stanford.edu
 
-Stanford Women in Business (http://www.stanfordwomeninbusiness.com/)
-Brief:
-Website:
-Contact:
+Stanford Women in Business 
+Brief: Stanford Women in Business educates women pursuing careers in business fields through an encouraging community of aspiring and successful young women on Stanford's campus.
+Website: http://www.stanfordwomeninbusiness.com/
+Contact: Lauryn Isford (President)- ljisford@stanford.edu
 
 Center for Entrepreneurial Studies (GSB) (http://www.gsb.stanford.edu/ces)
 Brief:
