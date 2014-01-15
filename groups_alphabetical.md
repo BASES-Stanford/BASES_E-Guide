@@ -11,6 +11,10 @@ Brief: Challenges: Social E-challenge (prize money for team with best business m
 Website: http://bases.stanford.edu/
 Contact: Co-Presidents: John Yang-Sammataro-johnys@stanford.edu and Alexander Lin-alin719@stanford.edu
 
+Graduate School of Business (GSB) Entrepreneur Club 
+Brief: The GSB Entrepreneurship Club is one of the oldest student-run entrepreneur's clubs in the nation. The current incarnation of the club has its roots in the late 1970s, when many of the individual student initiatives around small businesses and entrepreneurialism coalesced into a single student-lead club. In 1993, the e-club under the leadership of Ken Hawk sponsored the first E-Conference on Entrepreneurship, with 150 people attending the day-long event. The conference has since grown to be the largest annual conference dedicated to entrepreneurship in the world. Today the Entrepreneur Club is the most active student-run club within the GSB community. We have over 300 members and last year the club organized more than 50 events for over 1,100 attendants. The goal of the current GSB Entrepreneurship Club is to stimulate interest in entrepreneurialism among GSB students and other members of the Stanford community. We are passionate about building sustainable ventures and want to provide our members a lifelong learning & support platform to minimize risk and to maximize success in ventures. We want to promote entrepreneurial mind-set both as a founder or manager of a start-up as well as in the roles of an investor, advisor, or corporate partner. 
+Website: http://www.gsbeclub.org/
+Contact: General Club Email: eclub_exec_team@gsb.stanford.edu
 
 Society for Entrepreneurship in Latin America 
 Brief: The Society for Entrepreneurship in Latin America aims to create and educate a network of future leaders in business, technology, and social innovation in the Americas in order to foster a global entrepreneurship community aware of Latin American affairs.
@@ -24,11 +28,21 @@ Website: http://energyclub.stanford.edu/
 Contact: Caleb Morse (President)-cbmorse@stanford.edu
 More: Panel discussions, site visits to companies in the Bay area, weekly digest for energy-related jobs
 
+Stanford Institute for Electrical and Electronics Engineers 
+Brief: Stanford IEEE is Stanford's student chapter of the Institute of Electrical and Electronics Engineers (IEEE). We're a group of electrical engineering and computer science students (undergrad and graduate) who want to have fun and meet new people, to learn about research and innovation in technology, to find ourselves and our passions, to help our community, and to get inspired to change the world!
+Website: http://ieee.stanford.edu/
+Contact: General/Chair-ieee@ee.stanford.edu
+
 Stanford Law & Technology Association
 Brief:Since 1984 the Stanford Law and Technology Association (SLATA) has engaged the Stanford community with thought leaders at the intersections of law, policy, science, and technology. SLATA’s events foster a vibrant intellectual dialogue about the novel and challenging legal questions that coincide with technological innovation.For Stanford Law students, SLATA brings in lawyers, academics, and policy makers to speak about cutting edge issues at the intersection of law and technology, introducing students to the people dealing with these issues every day. SLATA also maintains several technology resources for students, including online bookstores that sponsor student benefits and a comprehensive database of course outlines.
 Website:http://slata.stanford.edu/ 
 Contact: Co-Presidents: Jonathan Schatz-jtschatz@gmail.com and Lisa Li-lxl1@stanford.edu
 More: Lawyers and policymakers speak about issues that explore technology and law, technology resources for students including and online bookstore and course outlines database
+
+Stanford Law School (SLS) Entrepreneurship Club 
+Brief: To connect Stanford Law School students interested in entrepreneurship to the greater Stanford and Silicon Valley community.
+Website: http://www.law.stanford.edu/organizations/student-organizations/sls-entrepreneurship-club
+Contact: Co-presidents: Braine Cornish (brianek@stanford.edu), Mark Mallery (mmallery@stanford.edu)
 
 Stanford Student Space Initiative
 Brief: Our mission is to change the space culture at Stanford by cultivating space entrepreneurship and strengthening the Stanford space community.
@@ -40,105 +54,14 @@ Brief: SVCC is a student-run organization that assists venture capital firms in 
 Website: http://vc.stanford.edu/cgi-bin/wordpress/
 Contact:Konstantine Buhler (President)-buhler@stanford.edu
 
-Stanford Women in Business 
-Brief: Stanford Women in Business educates women pursuing careers in business fields through an encouraging community of aspiring and successful young women on Stanford's campus.
-Website: http://www.stanfordwomeninbusiness.com/
-Contact: Lauryn Isford (President)- ljisford@stanford.edu
-
-
-
-Graduate School of Business (GSB) Entrepreneur Club 
-Brief: The GSB Entrepreneurship Club is one of the oldest student-run entrepreneur's clubs in the nation. The current incarnation of the club has its roots in the late 1970s, when many of the individual student initiatives around small businesses and entrepreneurialism coalesced into a single student-lead club. In 1993, the e-club under the leadership of Ken Hawk sponsored the first E-Conference on Entrepreneurship, with 150 people attending the day-long event. The conference has since grown to be the largest annual conference dedicated to entrepreneurship in the world. Today the Entrepreneur Club is the most active student-run club within the GSB community. We have over 300 members and last year the club organized more than 50 events for over 1,100 attendants. The goal of the current GSB Entrepreneurship Club is to stimulate interest in entrepreneurialism among GSB students and other members of the Stanford community. We are passionate about building sustainable ventures and want to provide our members a lifelong learning & support platform to minimize risk and to maximize success in ventures. We want to promote entrepreneurial mind-set both as a founder or manager of a start-up as well as in the roles of an investor, advisor, or corporate partner. 
-Website: http://www.gsbeclub.org/
-Contact: General Club Email: eclub_exec_team@gsb.stanford.edu
-
-Stanford Institute for Innovation in Developing Economies (SEED) (GSB) 
-Brief: The Stanford Institute for Innovation in Developing Economies (SEED) seeks to stimulate the creation of economic opportunities through innovation, entrepreneurship, and the growth of businesses that change the lives of people who live in poverty around the world.
-Website: https://seed.stanford.edu/
-Contact: seed_inbox@stanford.edu
-Other Locations: Accra, Ghana;
-
-
 Stanford Venture Studio (GSB) 
 Brief: The Stanford Venture Studio is a vibrant learning facility for Stanford graduate students across all disciplines who want to learn about designing and creating sustainable, high-impact ventures by testing what they are learning in the classroom. The Stanford Venture Studio provides a supportive, resourced environment, where students benefit from being immersed in the Stanford entrepreneurial community. 
 Website: http://www.gsb.stanford.edu/ces/students/venture-studio
 Contact:sprie-stanford@stanford.edu
 More: SPRIE maling list: sprie-seminar-join@lists.stanford.edu.
 
-Epicenter (National Center for Engineering Pathways to Innovation) 
-Brief: Epicenter offers entrepreneurship and innovation programs for engineering faculty and students; partners with leaders in academia and government to build a national entrepreneurship agenda in engineering; conducts research on higher education models; hosts online classes and resources; and forms communities around entrepreneurship in engineering education.
-Website: http://epicenter.stanford.edu/
-Contact: Leticia Britos Cavagnaro (Associate Director)-britos@stanford.edu; Comments or questions may be sent to epicenter@stanford.edu
-
-Stanford Institute for Electrical and Electronics Engineers 
-Brief: Stanford IEEE is Stanford's student chapter of the Institute of Electrical and Electronics Engineers (IEEE). We're a group of electrical engineering and computer science students (undergrad and graduate) who want to have fun and meet new people, to learn about research and innovation in technology, to find ourselves and our passions, to help our community, and to get inspired to change the world!
-Website: http://ieee.stanford.edu/
-Contact: General/Chair-ieee@ee.stanford.edu
-
-Stanford Technology Ventures Program (fill out)...
-Brief:
-Website: http://stvp.stanford.edu/
-Contact: 
-
-AIMS (Association of Industry-Minded Stanford Professionals) 
-Brief:
-Website: https://sen.stanford.edu/member/aims-association-industry-minded-stanford-professionals
-Contact:
-
-Cross-disciplinary Healthcare Innovation Partnership at Stanford 
-Brief:
-Website: http://healthcare.stanford.edu/
-Contact:
-
-European Entrepreneurship & Innovation 
-Brief:
-Website: http://www.europeanentrepreneursatstanford.com/
-Contact:
-
-
-The Precourt Institute for Energy (https://energy.stanford.edu/)
-Brief:
-Website:
-Contact:
-
-Woods Institute for the Environment (https://woods.stanford.edu/)
-Brief:
-Website:
-Contact:
-
-Graduate Program in Journalism: Digital Media at Stanford (http://journalism.stanford.edu/)
-Brief:
-Website:
-Contact:
-
-Office of Technology Licensing (http://otl.stanford.edu/)
-Brief:
-Website:
-Contact:
-
-TomKat Innovation Transfer Program (http://tomkat.stanford.edu/innovation/)
-Brief:
-Website:
-Contact:
-
-Biodesign (http://biodesign.stanford.edu/bdn/index.jsp)
-Brief:
-Website:
-Contact:
-
-School of Medicine Career Center (http://med.stanford.edu/careercenter/)
-Brief:
-Website:
-Contact:
-
-Stanford Law School Entrepreneurship Club (http://www.law.stanford.edu/organizations/student-organizations/sls-entrepreneurship-club)
-Brief:
-Website:
-Contact:
-
-Stanford School of Medicine SPARK (http://sparkmed.stanford.edu/)
-Brief:
-Website:
-Contact:
-
+Stanford Women in Business 
+Brief: Stanford Women in Business educates women pursuing careers in business fields through an encouraging community of aspiring and successful young women on Stanford's campus.
+Website: http://www.stanfordwomeninbusiness.com/
+Contact: Lauryn Isford (President)- ljisford@stanford.edu
 
