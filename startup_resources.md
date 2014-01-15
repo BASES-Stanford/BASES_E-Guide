@@ -53,4 +53,64 @@ Brief:
 Website: http://startx.stanford.edu/
 Contact:
 
+Stanford Technology Ventures Program (fill out)...
+Brief:
+Website: http://stvp.stanford.edu/
+Contact: 
+
+AIMS (Association of Industry-Minded Stanford Professionals) 
+Brief:
+Website: https://sen.stanford.edu/member/aims-association-industry-minded-stanford-professionals
+Contact:
+
+Cross-disciplinary Healthcare Innovation Partnership at Stanford 
+Brief:
+Website: http://healthcare.stanford.edu/
+Contact:
+
+European Entrepreneurship & Innovation 
+Brief:
+Website: http://www.europeanentrepreneursatstanford.com/
+Contact:
+
+
+The Precourt Institute for Energy 
+Brief:
+Website:https://energy.stanford.edu/
+Contact:
+
+Woods Institute for the Environment 
+Brief:
+Website: https://woods.stanford.edu/
+Contact:
+
+Graduate Program in Journalism: Digital Media at Stanford 
+Brief:
+Website: http://journalism.stanford.edu/
+Contact:
+
+Office of Technology Licensing 
+Brief:
+Website: http://otl.stanford.edu/
+Contact:
+
+TomKat Innovation Transfer Program 
+Brief:
+Website:h ttp://tomkat.stanford.edu/innovation/
+Contact:
+
+Biodesign 
+Brief:
+Website: http://biodesign.stanford.edu/bdn/index.jsp
+Contact:
+
+School of Medicine Career Center 
+Brief:
+Website: http://med.stanford.edu/careercenter/
+Contact:
+
+Stanford School of Medicine SPARK 
+Brief:
+Website: http://sparkmed.stanford.edu/
+Contact:
 
