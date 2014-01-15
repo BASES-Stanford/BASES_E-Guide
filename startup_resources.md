@@ -1,4 +1,4 @@
-###Startup Resources
+###Startup Resources & Non-Student Organizations
 GSB Entrepreneurship Club
 (http://www.gsbeclub.org/startup-resources)
 
