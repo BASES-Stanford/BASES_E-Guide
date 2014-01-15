@@ -1,147 +1,210 @@
-
 ###Stanford Labs
+
 Stanford Technology Ventures Program (STVP)
-Co-Director: Thomas Byers
-Co-Director: Kathleen Eisenhardt
-stvp.stanford.edu
+  Focus: Technology based entrepreneurship
+  Blurb: The Stanford Technology Ventures Program (STVP) is the entrepreneurship center at Stanford University's School of Engineering. STVP is hosted by the department of Management Science and Engineering. STVP's mission is dedicated to accelerating high-technology entrepreneurship education and creating scholarly research on technology-based firms that, in turn, provides new insights for students, scholars, and business leaders.
+  Led by: Co-directors Thomas Byers and Kathleen Eisenhardt
+  Contact: Entrepreneurship Concierge Angela Hayward (ahayward@stanford.edu)
+  Website: stvp.stanford.edu
 
 Stanford Venture Studio (SVS)
-Lifeswap: Product of SVS
-BipSync: Product of SVS
-Contact: Whitney Flynn
-gsb.stanford.edu/ces/students/venture-studio
+  Focus:
+  Blurb:
+  Led by:
+  Contact: Whitney Flynn
+  Website: gsb.stanford.edu/ces/students/venture-studio
 
 Stanford HCI Group
-hci.stanford.edu
+  Focus: Opportunistic Programming
+  Blurb:
+  Led by: Professor Scott R. Klemmer
+  Contact:
+  Website: hci.stanford.edu
 
-Opportunistic Programming
-Professor Scott R. Klemmer's research group 
-hci.stanford.edu
 
 MIT/Stanford Venture Lab
-Tom Clavel: Chairman
-Michael Chong: Vice Chair
-http://www.vlab.org
+Focus:
+Blurb:
+Led by: Chariman Tom Clavel & Vice Chair Michael Chong
+Website: http://www.vlab.org
 
 Stanford GSB Entrepreneur Club
-http://www.gsbeclub.org/startup-resources
+Focus:
+Blurb:
+Led by:
+Website: http://www.gsbeclub.org/startup-resources
 
 Aero Fluid Mechanics Laboratory
-Director: Brian Cantwell
-aa.stanford.edu/research/index.php#afm
+Focus:
+Blurb:
+Led by: Director Brian Cantwell
+Website: aa.stanford.edu/research/index.php#afm
 
 Aerospace Robotics Laboratory
-Director: Stephen Rock
-stanford.edu/group/arl
+Focus:
+Blurb:
+Led by: Director Stephen Rock
+Website:stanford.edu/group/arl
 
 Aircraft Aerodynamics and Design Group
-Director: Ilan Kroo
-aero.stanford.edu/ADG.html
+Focus:
+Blurb:
+Led by: Director Ilan Kroo
+Website: aero.stanford.edu/ADG.html
 
 Army High-Performance Computing Research Center
-Director: Charbel Farhat
-stanford.edu/group/frg
+Focus:
+Blurb:
+Led by: Director Charbel Farhat
+Website: stanford.edu/group/frg
 
 Biomotion Research Group
-Director: Thomas Andriacchi
-stanford.edu/group/biomotion
+Focus:
+Blurb:
+Led by: Director Thomas Andriacchi 
+Website:stanford.edu/group/biomotion
 
 Brown Institute for Media Innovation
-Director: Bernd Girod
-brown.stanford.edu
+Focus:
+Blurb:
+Led by: Director Bernd Girod
+Website: brown.stanford.edu
 
 Center for Turbulence Research
-Director: Parviz Moin
-ctr.stanford.edu
+Focus:
+Blurb:
+Led by: Parviz Moin
+Website: ctr.stanford.edu
 
 Virtual Human Interaction Lab
-Director: Jeremy Bailenson
-vhil.stanford.edu
+Focus:
+Blurb:
+Led by: Director Jeremy Bailenson
+Website: vhil.stanford.edu
 
 Collaborative Haptics And Robotics in Medicine (CHARM) Lab
-Principal Investigator: Allison Okamura
-charm.stanford.edu
+Focus:
+Blurb:
+Led by: Principal Investigator Allison Okamura
+Website: charm.stanford.edu
 
 Computer Systems Laboratory
-Director: Mendel Rosenblum
-csl.stanford.edu
+Focus:
+Blurb:
+Led by: Mendel Rosenblum
+Website: csl.stanford.edu
 
 Edward L. Ginzton Laboratory
-Director: Olav Solgaard
-stanford.edu/group/ginzton
+Focus:
+Blurb:
+Led by: Olav Solgaard
+Website: stanford.edu/group/ginzton
 
 Engineering Risk Research Group
-Director: M. Elisabeth Paté-Cornell
-stanford.edu/group/EERG
+Focus:
+Blurb:
+Led by: M. Elisabeth Paté-Cornell
+Website: stanford.edu/group/EERG
 
 Environmental Fluid Mechanics Laboratory
-Director: Stephen Monismith
-cee.stanford.edu/programs/efml/index.html
+Focus:
+Blurb:
+Led by: Stephen Monismith
+Website: cee.stanford.edu/programs/efml/index.html
 
 Geballe Laboratory for Advanced Materials (GLAM)
-Director: Paul McIntyre; Director: Zhi-xun Shen
-lam.stanford.edu
+Focus:
+Blurb:
+Led by: Directors Paul McIntyre & Zhi-xun Shen
+Website: lam.stanford.edu
 
 Global Climate and Energy Project
-Director: Sally Benson
-gcep.stanford.edu
+Focus:
+Blurb:
+Led by: Director Sally Benson
+Webstie: gcep.stanford.edu
 
 Gravity Probe B Project
-Principal Investigator: C.W.F. Everitt
-einstein.stanford.edu
+Focus:
+Blurb:
+Led by: Principal Investigator C.W.F. Everitt
+Website: einstein.stanford.edu
 
 Hansen Experimental Physics Laboratory
-Director: Peter Michelson
-stanford.edu/group/hepl
+Focus:
+Blurb:
+Led by: Director Peter Michelson
+Website: stanford.edu/group/hepl
 
-Hasso Plattner Institute of Design at Stanford (d.school)
-Director: David Kelley
-dschool.stanford.edu
 
 High Temperature Gasdynamics Laboratory
-Director: Reginald Mitchell
-thermosciences.stanford.edu/labs/lab_gasdynamic.html
+Focus:
+Blurb:
+Led by: Director Reginald Mitchell
+Website: thermosciences.stanford.edu/labs/lab_gasdynamic.html
 
 Information Systems Laboratory
-Director: Stephen Boyd
-isl.stanford.edu
+Focus:
+Blurb:
+Led by: Director Stephen Boyd
+Website: isl.stanford.edu
 
 John A. Blume Earthquake Engineering Center
-Director: Gregory Deierlein
-blume.stanford.edu
+Focus:
+Blurb:
+Led by: Director Gregory Deierlein
+Website: blume.stanford.edu
 
 Manufacturing Modeling Lab
-Director: Kurt Beiter
-kbeiter@stanford.edu
+Focus:
+Blurb:
+Led by: Director: Kurt Beiter
+Website: kbeiter@stanford.edu
 
 Max Planck Center for Visual Computing and Communication
-Faculty Director: Bernd Girod
-mpc-vcc.org
+Focus:
+Blurb:
+Led by: Faculty Director: Bernd Girod
+Website: mpc-vcc.org
 
 Nanoscale Prototyping Laboratory
-Director: Friedrich Prinz
-npl-web.stanford.edu
+Focus:
+Blurb:
+Led by: Director Friedrich Prinz
+Website: npl-web.stanford.edu
 
 National Center for Engineering Pathways to Innovation (the Epicenter)
-Principal Investigator: Tom Byers
-epicenter.stanford.edu
+Focus:
+Blurb:
+Led by: Principal Investigator Tom Byers
+Website: epicenter.stanford.edu
 
 Product Realization Laboratory
-Co-Director: David Beach; Co-Director: Craig Milroy
-prl.stanford.edu
+Focus:
+Blurb:
+Led by: Co-Directors David Beach & Craig Milroy
+Website: prl.stanford.edu
 
 Project-Based Learning Lab
-Director: Renate Fruchter
-pbl.stanford.edu
+Focus:
+Blurb:
+Led by: Director Renate Fruchter
+Website: pbl.stanford.edu
 
 Simbios
-Principal Investigator: Russ Altman
-simbos.stanford.edu
+Focus:
+Blurb:
+Led by: Principal Investigator Russ Altman
+Website: simbos.stanford.edu
 
 Smart Products Design Lab
-Director: Ed Carryer
-design.stanford.edu
+Focus:
+Blurb:
+Led by: Ed Carryer
+Website: design.stanford.edu
 
 Stanford Artificial Intelligence Laboratory
-Director: Andrew Ng
-ai.stanford.edu
+Focus:
+Blurb:
+Led by: Director Andrew Ng
+Website: ai.stanford.edu
