@@ -44,6 +44,11 @@ Brief: To connect Stanford Law School students interested in entrepreneurship to
 Website: http://www.law.stanford.edu/organizations/student-organizations/sls-entrepreneurship-club
 Contact: Co-presidents: Braine Cornish (brianek@stanford.edu), Mark Mallery (mmallery@stanford.edu)
 
+Stanford Students in Biodesign
+Brief: SSB's initiatives are designed to bring the biotechnology, pharmaceutical, and medical device industries to Stanford. We design and run two courses to introduce students to various fields and careers, and allow them to hear from influential members of industry and academia. Our team hosts an annual Stanford Medical Innovation Conference on a novel and burgeoning technology area, summoning high profile pioneers to share their innovation and an audience from across the nation. SSB also organizes several events for students including talks, tours of Stanford labs and company R&D labs, student-industry mixers, one-on-one advisory meetings with industry members in our network, and more!
+Website: https://sites.google.com/site/ssbinformation/ 
+Contact: General Information & Questions or sponsorship packet- Executive Team (ssb.information@gmail.com)
+ 
 Stanford Student Space Initiative
 Brief: Our mission is to change the space culture at Stanford by cultivating space entrepreneurship and strengthening the Stanford space community.
 Website: http://spaceinitiative.stanford.edu/
