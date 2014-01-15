@@ -1,14 +1,14 @@
 ###Startup Resources & Non-Student Organizations
 
 AIMS (Association of Industry-Minded Stanford Professionals) 
-Brief:
+Brief: AIMS is the Association of Industry-Minded Stanford Professionals, an organization created to streamline start-up and industry-related education and networking for the 1,800+ Stanford Postdocs - focusing on Postdoc specific solutions. We educate on the entrepreneurial process, raise awareness and access to key resources, and assist with networking.  AIMS is a postdoc organization that also welcomes exceptional non-postdoc participation.
 Website: https://sen.stanford.edu/member/aims-association-industry-minded-stanford-professionals
-Contact:
+Contact: NA
 
-Biodesign 
-Brief:
+Biodesign
+Brief: Our mission is to train students, fellows and faculty in the Biodesign Process: a systematic approach to needs finding and the invention and implementation of new biomedical technologies.  Key components of the program include Biodesign Innovation Fellowships; classes in medtech innovation; mentoring of students and faculty in the technology transfer process; career services for students interested in medtech careers; and community educational events.
 Website: http://biodesign.stanford.edu/bdn/index.jsp
-Contact:
+Contact: General Information & Sponsorship Christine Kurihara (christine.kurihara@stanford.edu)
 
 Center for Entrepreneurial Studies (GSB)
 Brief:
