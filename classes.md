@@ -14,10 +14,11 @@ MS&E 271 Global Entrepreneurial Marketing (GEM, travel to Hong Kong):
   Teachers: Lynda Smith, Thomas Kosnick
   For more infornmation:http://www.stanford.edu/class/msande271/
 
-MS&E 472 Entrepreneurial Thought Leaders’ Seminar (http://etl.stanford.edu):
+MS&E 472 Entrepreneurial Thought Leaders’ Seminar:
   For: All
   Entrepreneurial leaders share lessons from real-world experiences across entrepreneurial settings. ETL speakers include entrepreneurs, leaders from global technology companies, venture capitalists, and best-selling authors. Composed of Half-hour talks followed by half hour of class interaction.
   Teachers: Tom Byers, Thomas Kosnik, Tina Seelig
+  website: http://etl.stanford.edu
   
 MS&E 178 The Spirit of Entrepreneurship (companion course to MS&E 472):
   For: All (must apply)
@@ -42,10 +43,11 @@ EDUC 321X Leading Social Change: Educational and Social Entrepreneurship (AKA OB
   For: All
 The course provides an overview of different approaches to leading change in the social sector, drawing primarily, but not exclusively, on case examples in education. While there is a substantial need for innovation and visionary leadership in sectors such as education, social entrepreneurs who want to drive change must appreciate the significant barriers and unique opportunities presented by non-market forces in these sectors. The course will equip students with an appreciation for different mechanisms of change and theories of action as well as some of the challenges of initiating and sustaining meaningful change in social sectors such as education. nnThe course will draw on readings and case studies, and we will benefit from the wisdom of an inspirational group of guest lecturers. While the course will benefit any student concerned with making a positive impact in the world, it is particularly (although not exclusively) appropriate for students in the joint MA/MBA program as well as those who will lead social change through nonprofit consulting or entrepreneurship.
 
-ENGR 145 Technology Entrepreneurship (http://e145.stanford.edu) 
+ENGR 145 Technology Entrepreneurship  
   For: All
 How do you create a successful start-up? What is entrepreneurial leadership in a large firm? What are the differences between an idea and true opportunity? How does an entrepreneur form a team and gather the resources necessary to create a great enterprise? This class mixes mentor-guided team projects, in-depth case studies, research on the entrepreneurial process, and the opportunity to network and ask questions of Silicon Valley's top entrepreneurs and venture capitalists. For undergraduates of all majors who seek to understand the formation and growth of high-impact start-ups in areas such as information, green/clean, medical and consumer technologies.
   Teachers: Clinton Douglas Korver, Thomas Kosnik, R. Miura-Ko, Tim Edward Ott 
+  Website: http://e145.stanford.edu
 
 ENGR 245 Lean Startups 
   For: All
@@ -82,10 +84,11 @@ SOC 161 The Social Science of Entrepreneurship (SOC 261)
   Who is likely to become an entrepreneur and where is entrepreneurship likely to occur? Classic and contemporary theory and research. Interaction with expert practitioners in creating entrepreneurial opportunities including venture and corporate capitalists. The role of culture, markets, hierarchies, and networks. Market creation and change, and factors that affect success of new organizations. Field projects on entrepreneurial environments such as technology licensing offices, entrepreneurial development organizations, venture capital firms, and corporate venturing groups.
   Teacher: Patricia Helmke Thornton
 
-STRAMGT 353 Entrepreneurship: Formation of New Ventures (http://libguides.stanford.edu/stramgt353)
+STRAMGT 353 Entrepreneurship: Formation of New Ventures 
   For: GSB Students
   This course is offered for students who at some time may want to undertake an entrepreneurial career by pursuing opportunities leading to partial or full ownership and control of a business. The 2013-14 spring quarter section, taught by Russ Siegelman and Laura Hattendorf, will exclusively focus on social ventures and is not recommended for students NOT interested in social ventures. The course deals with case situations from the point of view of the entrepreneur/manager rather than the passive investor. Many cases involve visitors, since the premise is that opportunity and action have large idiosyncratic components. Students must assess opportunity and action in light of the perceived capabilities of the individuals and the nature of the environments they face. The course is integrative and will allow students to apply many facets of their business school education. Each section will have a specific focus, please select the instructor(s) with your interests: Leslie, Siegelman - High tech ventures Ellis, Chambers, Childs - Diverse types of ventures Ellis, Foster - Diverse types of ventures Siegel, Brady - High tech emphasis, but diverse types of ventures Siegelman, Hattendorf - Social ventures Reiss, Chess - Very early stage ventures.
   Teachers: Russ Siegelman and Laura Hattendorf, as well as the afore mentioned section leaders.
+  Website:http://libguides.stanford.edu/stramgt353
   
 STRAMGT 354 Entrepreneurship and Venture Capital 
   For: GSB Students
@@ -106,16 +109,18 @@ CEE 246 Entrepreneurship in Civil and Environmental Engineering:
 Developing and implementing successful strategies for all kinds of companies in the architecture-engineering-construction industry. Develop a strategy for, and paly different management roles in, a simulated construction company. Develop business plans for a new company or new business activity within an existing company in this industry. Prerequisites: introductory engineering economy course such as E60 or CEE 246a; introductory accounting course such as CEE 244A, or MS&E 140 (on-line class available to meet prerequisites -- contact instructor). Instructions for applying to enroll are on the coursework website. 
   Teachers: Jack Herman Fuchs, Raymond Levitt, Michael Lyons
 
-CHEMENG 196 Entrepreneurship in Engineering and Science-based Industries (CHEMENG 296) (https://energy.stanford.edu/entrepreneurship-engineering-and-science-based-industries-chemeng-296)
+CHEMENG 196 Entrepreneurship in Engineering and Science-based Industries (CHEMENG 296) 
   For: Seniors and Grad Students
 Open to sudents interested in entrepreneurship in engineering and science intensive industries such as chemical, energy, materials, bioengineering, environmental, clean-tech, pharmaceuticals, medical, and biotechnology. Exploration of the dynamics, complexity, and challenges that define entrepreneurship, particularly for companies that require long development times, large investments, integration across a wide range of technical and non-technical disciplines, and the creation and protection of intellectual property. Covers business basics, opportunity viability, creating start-ups, entrepreneurial leadership, and entrepreneurship as a career. 
   Teachers: R. Levy, Howard Rosen
-
-COMM 140 Digital Media Entrepreneurship (AKA COMM 240) (http://dme.stanford.edu)
+  Website: https://energy.stanford.edu/entrepreneurship-engineering-and-science-based-industries-chemeng-296
+  
+COMM 140 Digital Media Entrepreneurship (AKA COMM 240) 
   For: All, Grad-Students register for 240
 Primarily for graduate journalism and computer science students. Silicon Valley's new media culture, digital storytelling skills and techniques, web-based skills, and entrepreneurial ventures. Guest speakers.
   Teachers: Ann Grimes
-
+  Website: http://dme.stanford.edu
+  
 EE 402T Entrepreneurship in Asian High-Tech Industries:
   For: All
   Distinctive patterns and challenges of entrepreneurship in Asia; update of business and technology issues in the creation and growth of start-up companies in major Asian economies. Distinguished speakers from industry, government, and academia. 
