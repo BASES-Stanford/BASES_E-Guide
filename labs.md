@@ -149,23 +149,11 @@ Blurb:
 Led by: Director Stephen Boyd
 Website: isl.stanford.edu
 
-John A. Blume Earthquake Engineering Center
-Focus:
-Blurb:
-Led by: Director Gregory Deierlein
-Website: blume.stanford.edu
-
 Manufacturing Modeling Lab
 Focus:
 Blurb:
 Led by: Director: Kurt Beiter
 Website: kbeiter@stanford.edu
-
-Max Planck Center for Visual Computing and Communication
-Focus:
-Blurb:
-Led by: Faculty Director: Bernd Girod
-Website: mpc-vcc.org
 
 Nanoscale Prototyping Laboratory
 Focus:
@@ -178,12 +166,6 @@ Focus:
 Blurb:
 Led by: Principal Investigator Tom Byers
 Website: epicenter.stanford.edu
-
-Product Realization Laboratory
-Focus:
-Blurb:
-Led by: Co-Directors David Beach & Craig Milroy
-Website: prl.stanford.edu
 
 Project-Based Learning Lab
 Focus:
