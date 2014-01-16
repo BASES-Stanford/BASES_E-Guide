@@ -8,55 +8,49 @@ Stanford Technology Ventures Program (STVP)
   Website: stvp.stanford.edu
 
 Stanford Venture Studio (SVS)
-  Focus: Complete immersion in the Stanford Entrepreneurial Community
-  Blurb:The Stanford Venture Studio is a vibrant learning facility for Stanford graduate students across all disciplines who want to learn about designing and creating sustainable, high-impact ventures by testing what they are learning in the classroom. 
-  Led by: Aileen Sweeney, associate director of Center for Entrepreneurial Studies
+  Focus:
+  Blurb:
+  Led by:
   Contact: Whitney Flynn
   Website: gsb.stanford.edu/ces/students/venture-studio
 
 Stanford HCI Group
   Focus: Opportunistic Programming
-  Blurb: Stanford University's Human Computer Interaction (HCI) group focuses on topics in design, implementation, testing and analysis. The HCI curriculum places a strong emphasis on project-based learning.
+  Blurb:
   Led by: Professor Scott R. Klemmer
   Contact:
   Website: hci.stanford.edu
 
 
 MIT/Stanford Venture Lab
-Focus: Promoting the growth and success of high-tech entrepreneurial ventures by connecting ideas, technology and people
-Blurb: VLAB is the San Francisco Bay Area chapter of the MIT Enterprise Forum. They provide a forum for San Francisco and Silicon Valley's leading entrepreneurs, industry experts, venture capitalists, private investors and technologists to exchange insights about how to effectively grow high-tech ventures amidst dynamic market risks and challenges. In a world where markets change at breakneck speed, knowledge is a critical source of competitive advantage. Their forums provide an excellent opportunity to network and learn about pivotal business issues, emerging industries and the latest technologies.
+Focus:
+Blurb:
 Led by: Chariman Tom Clavel & Vice Chair Michael Chong
 Website: http://www.vlab.org
 
 Stanford GSB Entrepreneur Club
-Focus: Promoting the understanding and development of starting new companies
-Blurb: The E-Club is the largest professional club at the GSB. They are committed to enhancing the learning experiences for students curious about entrepreneurship (a forum to learn) and by defining an action-oriented road map for students looking to launch a company (a path to launch).
-Led by: Roi Chobadi, Bastiaan Janmaat, Katie Fifer, Alex Gelman
+Focus:
+Blurb:
+Led by:
 Website: http://www.gsbeclub.org/startup-resources
 
 Aero Fluid Mechanics Laboratory
-Focus:
-Blurb:
+Focus: Basic studies of the fundamental properties of turbulent and reacting flow
+Blurb: The Aero Fluid Mechanics Laboratory is interested in measurements of the structure of turbulent flames, direct numerical simulation of free shear flows, and use of topological methods for interpretation of complex three-dimensional vector fields. Recent projects include studies of fast-burning fuels for hybrid propulsion and decomposition of nitrous oxide for space propulsion.
 Led by: Director Brian Cantwell
 Website: aa.stanford.edu/research/index.php#afm
 
 Aerospace Robotics Laboratory
-Focus:
-Blurb:
+Focus: Improving robotic performance through the application of feedback control, integrated sensing systems, and task-level autonomy
+Blurb: The Aerospace Robotics Laboratory is a research group in the Department of Aeronautics and Astronautics at Stanford University. All of the research is developed and validated on experimental hardware systems. These systems include both mobile robots (land, sea, sky, and space) and a variety of fixed manipulators for space and factory applications.
 Led by: Director Stephen Rock
 Website:stanford.edu/group/arl
 
 Aircraft Aerodynamics and Design Group
-Focus:
-Blurb:
+Focus: Applied Aerodynamics and Aircraft Design
+Blurb: The Aircraft Aerodynamics and Design Group's work ranges from the development of computational and experimental methods for aerodynamic analysis to studies of unconventional aircraft concepts and new architectures for multidisciplinary design optimization. Their research group consists of about a dozen people including doctoral students, post-docs, and faculty.
 Led by: Director Ilan Kroo
 Website: aero.stanford.edu/ADG.html
-
-Army High-Performance Computing Research Center
-Focus:
-Blurb:
-Led by: Director Charbel Farhat
-Website: stanford.edu/group/frg
 
 Biomotion Research Group
 Focus:
@@ -149,11 +143,23 @@ Blurb:
 Led by: Director Stephen Boyd
 Website: isl.stanford.edu
 
+John A. Blume Earthquake Engineering Center
+Focus:
+Blurb:
+Led by: Director Gregory Deierlein
+Website: blume.stanford.edu
+
 Manufacturing Modeling Lab
 Focus:
 Blurb:
 Led by: Director: Kurt Beiter
 Website: kbeiter@stanford.edu
+
+Max Planck Center for Visual Computing and Communication
+Focus:
+Blurb:
+Led by: Faculty Director: Bernd Girod
+Website: mpc-vcc.org
 
 Nanoscale Prototyping Laboratory
 Focus:
@@ -166,6 +172,12 @@ Focus:
 Blurb:
 Led by: Principal Investigator Tom Byers
 Website: epicenter.stanford.edu
+
+Product Realization Laboratory
+Focus:
+Blurb:
+Led by: Co-Directors David Beach & Craig Milroy
+Website: prl.stanford.edu
 
 Project-Based Learning Lab
 Focus:
