@@ -8,30 +8,30 @@ Stanford Technology Ventures Program (STVP)
   Website: stvp.stanford.edu
 
 Stanford Venture Studio (SVS)
-  Focus:
-  Blurb:
-  Led by:
+  Focus: Complete immersion in the Stanford Entrepreneurial Community
+  Blurb:The Stanford Venture Studio is a vibrant learning facility for Stanford graduate students across all disciplines who want to learn about designing and creating sustainable, high-impact ventures by testing what they are learning in the classroom. 
+  Led by: Aileen Sweeney, associate director of Center for Entrepreneurial Studies
   Contact: Whitney Flynn
   Website: gsb.stanford.edu/ces/students/venture-studio
 
 Stanford HCI Group
   Focus: Opportunistic Programming
-  Blurb:
+  Blurb: Stanford University's Human Computer Interaction (HCI) group focuses on topics in design, implementation, testing and analysis. The HCI curriculum places a strong emphasis on project-based learning.
   Led by: Professor Scott R. Klemmer
   Contact:
   Website: hci.stanford.edu
 
 
 MIT/Stanford Venture Lab
-Focus:
-Blurb:
+Focus: Promoting the growth and success of high-tech entrepreneurial ventures by connecting ideas, technology and people
+Blurb: VLAB is the San Francisco Bay Area chapter of the MIT Enterprise Forum. They provide a forum for San Francisco and Silicon Valley's leading entrepreneurs, industry experts, venture capitalists, private investors and technologists to exchange insights about how to effectively grow high-tech ventures amidst dynamic market risks and challenges. In a world where markets change at breakneck speed, knowledge is a critical source of competitive advantage. Their forums provide an excellent opportunity to network and learn about pivotal business issues, emerging industries and the latest technologies.
 Led by: Chariman Tom Clavel & Vice Chair Michael Chong
 Website: http://www.vlab.org
 
 Stanford GSB Entrepreneur Club
-Focus:
-Blurb:
-Led by:
+Focus: Promoting the understanding and development of starting new companies
+Blurb: The E-Club is the largest professional club at the GSB. They are committed to enhancing the learning experiences for students curious about entrepreneurship (a forum to learn) and by defining an action-oriented road map for students looking to launch a company (a path to launch).
+Led by: Roi Chobadi, Bastiaan Janmaat, Katie Fifer, Alex Gelman
 Website: http://www.gsbeclub.org/startup-resources
 
 Aero Fluid Mechanics Laboratory
