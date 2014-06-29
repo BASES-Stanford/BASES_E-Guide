@@ -5,6 +5,7 @@ The BASES Guide to Entrepreneurship at Stanford.
 
 Started October 31st, 2013 by the BASES Operations Team.
 
+### [Contribute to the E-Guide](contribute.md)
 
 ### [Classes](classes.md)
 
