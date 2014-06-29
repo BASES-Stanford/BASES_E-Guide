@@ -17,3 +17,5 @@ BASES Operations Team
 ### [Stanford Labs](labs.md)
 
 
+
+Check back for regular updates.
