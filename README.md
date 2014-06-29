@@ -6,6 +6,7 @@ The BASES Guide to Entrepreneurship at Stanford.
 Started October 31st, 2013.
 BASES Operations Team
 
+
 ### [Classes](classes.md)
 
 ### [Groups on Campus by Alphabetical Order](groups_alphabetical.md)
