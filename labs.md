@@ -1,4 +1,4 @@
-###Stanford Labs
+# Stanford Labs
 
 Stanford Technology Ventures Program (STVP)
   Focus: Technology based entrepreneurship
@@ -17,8 +17,8 @@ Stanford Venture Studio (SVS)
 Stanford HCI Group
   Focus: Opportunistic Programming
   Blurb:
-  Led by: Professor Scott R. Klemmer
-  Contact:
+  Led by: Professor Michael Bernstein
+  Contact: msb@stanford.edu
   Website: hci.stanford.edu
 
 

@@ -1,4 +1,4 @@
-### Groups on Campus by Alphabetical Order
+# Groups on Campus by Alphabetical Order
 
 Asia-Pacific Student Entrepreneurship Society 
   Brief: ASES (Asia-Pacific Student Entrepreneurship Society) is a student organization whose mission is to educate and network the future leaders in business, technology and the Asia-Pacific in order to foster a global entrepreneurship society.

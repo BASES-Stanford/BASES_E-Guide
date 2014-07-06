@@ -1,5 +1,4 @@
-### Groups by Category
-
+# Groups by Category
 
 ### Graduate School of Business (GSB):
 

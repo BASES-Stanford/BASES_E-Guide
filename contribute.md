@@ -1,4 +1,4 @@
-### Contribute to the E-Guide
+# Contribute to the E-Guide
 
 Contributing to the BASES E-Guide is easy! The E-Guide is written in the Markdown format.
 
