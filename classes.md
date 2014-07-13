@@ -4,21 +4,21 @@
 
 ##### MS&E 273 Tech Venture Formations:
   For: Grad Students (& possibly persistent undergads)
-  Essentially a trial run/roleplaying as being a founder at a start up. The experience aims to teach students about seeking angel investments, how to build a team, assess oppertunities, customer development, go-to-market stretegizing, and how to potenitally IP. The team is team of instructurs includes serial entreprenuers and venture capitalists. As a team students validate their business model using R&D plans and financial projections, as well as defining milestones for raising and utilizing venture capital. The 'Final' is an investment pitch delived to a panel of top teir VC partners. You must apply at http://www.stanford.edu/class/msande273. 
+  Essentially a trial run/roleplaying as being a founder at a start up. The experience aims to teach students about seeking angel investments, how to build a team, assess oppertunities, customer development, go-to-market stretegizing, and how to potenitally IP. The team is team of instructurs includes serial entreprenuers and venture capitalists. As a team students validate their business model using R&D plans and financial projections, as well as defining milestones for raising and utilizing venture capital. The 'Final' is an investment pitch delived to a panel of top teir VC partners. You must apply at http://www.stanford.edu/class/msande273 
   Teachers: Jack Fuchs, Michael Lyons, Audrey MacLean
-  For full description:http://www.stanford.edu/class/msande273/
+  Website: http://www.stanford.edu/class/msande273/
 
 ##### MS&E 271 Global Entrepreneurial Marketing (GEM, travel to Hong Kong):
   For: All (must apply)
   Using case studies on startubs and international high-tech firms, students will {hopefully} learn the skills needed to market new tech based products to international customers. Themes are: marketing toolkit, targeting markets and customers, product marketing and management, partners and distribution, sales and negotiation, and outbound marketing. Team-based take-home final exam. Limited enrollment. Admission by application.
   Teachers: Lynda Smith, Thomas Kosnick
-  For more infornmation:http://www.stanford.edu/class/msande271/
+  Website: http://www.stanford.edu/class/msande271/
 
 ##### MS&E 472 Entrepreneurial Thought Leaders’ Seminar:
   For: All
   Entrepreneurial leaders share lessons from real-world experiences across entrepreneurial settings. ETL speakers include entrepreneurs, leaders from global technology companies, venture capitalists, and best-selling authors. Composed of Half-hour talks followed by half hour of class interaction.
   Teachers: Tom Byers, Thomas Kosnik, Tina Seelig
-  website: http://etl.stanford.edu
+  Website: http://etl.stanford.edu
   
 ##### MS&E 178 The Spirit of Entrepreneurship (companion course to MS&E 472):
   For: All (must apply)
@@ -30,7 +30,7 @@
 ##### ME206A+B Entrepreneurial Design for Extreme Affordability (extreme.stanford.edu)
   For: All (must apply)
   A two term class (A&B) focued on designing product prototypes, duistribution systems and business plans for entreprenurial ventures in the develooing world. Taught in conjunction by the School of Engineering and the School of Business, topics include user empathy, appropriate technological design, rapit prototyping, social-e, business modeling and project management. 
-  Teachers: Julian Gorodsky, James Patell, David Beach,Taylor Cone
+  Teachers: Julian Gorodsky, James Patell, David Beach, Taylor Cone
 
   
 ### EDUC
@@ -88,7 +88,7 @@ This course addresses the distinctive challenges and opportunities of launching 
 ##### MKTG 344 Marketing Research
   For: All (Unless GSB Grading means only GSB??)
   Market intelligence is of value to firms. To understand their markets, firms need to answer questions such as: How large is the market for a product, what is important for the target segment? How does change in the product design affect profits? This course aims to help students ask relevant questions and find data-driven answers to them. The main objectives are to equip students with: 1) an understanding of the value of data - what intelligence it can and cannot provide, 2) exposure to state-of-the-art quantitative tools such as conjoint analysis and cluster analysis to analyze the data, and 3) sufficient hands-on experience with these tools for answering students' own marketing research questions from the perspective of an entrepreneur, marketer or a consultant. The course is designed to address substantive marketing problems such as: market segmentation, targeting, forecasting demand, pricing, and developing new products. 
-  Teachers:Navdeep Sahni 
+  Teachers: Navdeep Sahni 
 
 ### SOC
 
@@ -103,7 +103,7 @@ This course addresses the distinctive challenges and opportunities of launching 
   For: GSB Students
   This course is offered for students who at some time may want to undertake an entrepreneurial career by pursuing opportunities leading to partial or full ownership and control of a business. The 2013-14 spring quarter section, taught by Russ Siegelman and Laura Hattendorf, will exclusively focus on social ventures and is not recommended for students NOT interested in social ventures. The course deals with case situations from the point of view of the entrepreneur/manager rather than the passive investor. Many cases involve visitors, since the premise is that opportunity and action have large idiosyncratic components. Students must assess opportunity and action in light of the perceived capabilities of the individuals and the nature of the environments they face. The course is integrative and will allow students to apply many facets of their business school education. Each section will have a specific focus, please select the instructor(s) with your interests: Leslie, Siegelman - High tech ventures Ellis, Chambers, Childs - Diverse types of ventures Ellis, Foster - Diverse types of ventures Siegel, Brady - High tech emphasis, but diverse types of ventures Siegelman, Hattendorf - Social ventures Reiss, Chess - Very early stage ventures.
   Teachers: Russ Siegelman and Laura Hattendorf, as well as the afore mentioned section leaders.
-  Website:http://libguides.stanford.edu/stramgt353
+  Website: http://libguides.stanford.edu/stramgt353
   
 ##### STRAMGT 354 Entrepreneurship and Venture Capital 
   For: GSB Students
@@ -153,7 +153,7 @@ Primarily for graduate journalism and computer science students. Silicon Valley'
   Teachers: Not given
 
 ##### EE 204: Business Management for Electrical Engineers and Computer Scientists
-For: Graduate students with little or no business experience
+  For: Graduate students with little or no business experience
 Leading computer, high-tech, and Silicon Valley companies and their best practices. Tools and frameworks for analyzing decisions these companies face. Corporate strategy, new product development, marketing, sales, distribution, customer service, financial accounting, outsourcing, and human behavior in business organizations. Case studies. Prerequisite: graduate standing.
-Teacher: Gred Gibbons
-Website: https://ee204.stanford.edu
+  Teacher: Gred Gibbons
+  Website: https://ee204.stanford.edu
