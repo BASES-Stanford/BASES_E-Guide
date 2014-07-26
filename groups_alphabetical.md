@@ -3,7 +3,7 @@
 ##### Asia-Pacific Student Entrepreneurship Society  (ASES)
 Brief: ASES is a student organization whose mission is to educate and network the future leaders in business, technology and the Asia-Pacific in order to foster a global entrepreneurship society.
 Website: http://ases.stanford.edu/
-Contact:  Kuan Peng (President)-kuanp@stanford.edu
+Contact: Kuan Peng (President)-kuanp@stanford.edu
 More: Startup Office Hours (work on startup ideas with an expert in the field), VC3 ("speed dating"--connecting with Venture Capitalists), Sartup Bootcamp (members form groups to work on ideas with community impact throughout the year), Intern Program (paired with alumni mentors to work on different projects throughout the year) 
 
 ##### Business Association of Stanford Entrepreneurial Students (BASES) 
@@ -16,28 +16,28 @@ Brief: The GSB Entrepreneurship Club is one of the oldest student-run entreprene
 Website: http://www.gsbeclub.org/
 Contact: General Club Email: eclub_exec_team@gsb.stanford.edu
 
-##### Society for Entrepreneurship in Latin America 
+##### Society for Entrepreneurship in Latin America
 Brief: The Society for Entrepreneurship in Latin America aims to create and educate a network of future leaders in business, technology, and social innovation in the Americas in order to foster a global entrepreneurship community aware of Latin American affairs.
 Website: http://sela.stanford.edu/
 Contact: Yael Wulfovich (President)-yaelw@stanford.edu; Anais Saint-Jude-anais.saint-jude@stanford.edu
 More: Chapters at universities in Argentina, Brazil, Chile, Colombia, Mexico, and El Salvador     
 
-##### Stanford Energy Club 
+##### Stanford Energy Club
 Brief: The Stanford Energy Club strives to bring together Stanford students, scholars and local professionals of all levels, regardless of discipline, who are interested in energy issues.
 Website: http://energyclub.stanford.edu/
 Contact: Caleb Morse (President)-cbmorse@stanford.edu
 More: Panel discussions, site visits to companies in the Bay area, weekly digest for energy-related jobs
 
-##### Stanford Institute for Electrical and Electronics Engineers
+##### Stanford Institute for Electrical and Electronics Engineers (IEEE)
 Brief: Stanford IEEE is Stanford's student chapter of the Institute of Electrical and Electronics Engineers (IEEE). We're a group of electrical engineering and computer science students (undergrad and graduate) who want to have fun and meet new people, to learn about research and innovation in technology, to find ourselves and our passions, to help our community, and to get inspired to change the world!
 Website: http://ieee.stanford.edu/
 Contact: General/Chair-ieee@ee.stanford.edu
 
 ##### Stanford Law & Technology Association
-Brief:Since 1984 the Stanford Law and Technology Association (SLATA) has engaged the Stanford community with thought leaders at the intersections of law, policy, science, and technology. SLATA’s events foster a vibrant intellectual dialogue about the novel and challenging legal questions that coincide with technological innovation.For Stanford Law students, SLATA brings in lawyers, academics, and policy makers to speak about cutting edge issues at the intersection of law and technology, introducing students to the people dealing with these issues every day. SLATA also maintains several technology resources for students, including online bookstores that sponsor student benefits and a comprehensive database of course outlines.
-Website:http://slata.stanford.edu/ 
+Brief: Since 1984 the Stanford Law and Technology Association (SLATA) has engaged the Stanford community with thought leaders at the intersections of law, policy, science, and technology. SLATA’s events foster a vibrant intellectual dialogue about the novel and challenging legal questions that coincide with technological innovation.For Stanford Law students, SLATA brings in lawyers, academics, and policy makers to speak about cutting edge issues at the intersection of law and technology, introducing students to the people dealing with these issues every day. SLATA also maintains several technology resources for students, including online bookstores that sponsor student benefits and a comprehensive database of course outlines.
+Website: http://slata.stanford.edu/ 
 Contact: Co-Presidents: Jonathan Schatz-jtschatz@gmail.com and Lisa Li-lxl1@stanford.edu
-More: Lawyers and policymakers speak about issues that explore technology and law, technology resources for students including and online bookstore and course outlines database
+More: Lawyers and policymakers speak about issues that explore technology and law, technology resources for students including and online bookstore and course outlines database.
 
 ##### Stanford Law School (SLS) Entrepreneurship Club 
 Brief: To connect Stanford Law School students interested in entrepreneurship to the greater Stanford and Silicon Valley community.
@@ -54,15 +54,15 @@ Brief: Our mission is to change the space culture at Stanford by cultivating spa
 Website: http://spaceinitiative.stanford.edu/
 Contact: David Gerson-dtgerson@stanford.edu
 
-##### Stanford Venture Capital Club 
+##### Stanford Venture Capital Club (SVCC)
 Brief: SVCC is a student-run organization that assists venture capital firms in identifying investment opportunities and educates students about the venture capital industry.
 Website: http://vc.stanford.edu/cgi-bin/wordpress/
-Contact:Konstantine Buhler (President)-buhler@stanford.edu
+Contact: Konstantine Buhler (President)-buhler@stanford.edu
 
-##### Stanford Venture Studio (GSB) 
-Brief: The Stanford Venture Studio is a vibrant learning facility for Stanford graduate students across all disciplines who want to learn about designing and creating sustainable, high-impact ventures by testing what they are learning in the classroom. The Stanford Venture Studio provides a supportive, resourced environment, where students benefit from being immersed in the Stanford entrepreneurial community. 
+##### Stanford Venture Studio
+Brief: The Stanford Venture Studio is a vibrant learning facility for Stanford graduate students across all disciplines who want to learn about designing and creating sustainable, high-impact ventures by testing what they are learning in the classroom. The Stanford Venture Studio provides a supportive, resourced environment, where students benefit from being immersed in the Stanford entrepreneurial community.
 Website: http://www.gsb.stanford.edu/ces/students/venture-studio
-Contact:sprie-stanford@stanford.edu
+Contact: sprie-stanford@stanford.edu
 More: SPRIE maling list: sprie-seminar-join@lists.stanford.edu.
 
 ##### Stanford Women in Business 
