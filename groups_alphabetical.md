@@ -1,7 +1,7 @@
 # Groups on Campus by Alphabetical Order
 
-##### Asia-Pacific Student Entrepreneurship Society 
-Brief: ASES (Asia-Pacific Student Entrepreneurship Society) is a student organization whose mission is to educate and network the future leaders in business, technology and the Asia-Pacific in order to foster a global entrepreneurship society.
+##### Asia-Pacific Student Entrepreneurship Society  (ASES)
+Brief: ASES is a student organization whose mission is to educate and network the future leaders in business, technology and the Asia-Pacific in order to foster a global entrepreneurship society.
 Website: http://ases.stanford.edu/
 Contact:  Kuan Peng (President)-kuanp@stanford.edu
 More: Startup Office Hours (work on startup ideas with an expert in the field), VC3 ("speed dating"--connecting with Venture Capitalists), Sartup Bootcamp (members form groups to work on ideas with community impact throughout the year), Intern Program (paired with alumni mentors to work on different projects throughout the year) 
