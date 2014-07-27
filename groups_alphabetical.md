@@ -68,5 +68,5 @@ More: SPRIE maling list: sprie-seminar-join@lists.stanford.edu.
 ##### Stanford Women in Business 
 Brief: Stanford Women in Business educates women pursuing careers in business fields through an encouraging community of aspiring and successful young women on Stanford's campus.
 Website: http://www.stanfordwomeninbusiness.com/
-Contact: Lauryn Isford (President)- ljisford@stanford.edu
+Contact: Lauryn Isford (President)-ljisford@stanford.edu
 
