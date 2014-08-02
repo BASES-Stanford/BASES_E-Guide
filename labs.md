@@ -21,47 +21,47 @@ Led by: Fei-Fei Li
 Website: http://ai.stanford.edu
 
 ##### Biomotion Research Group
-Blurb: The BioMotion Laboratory takes a unique multidisciplinary approach to studying osteoarthritis and the mechanics of sports injury through studies that examine the interaction of cell biology and biomechanics of movement. Current projects include a study of biomarkers for osteoarthritis, imaging studies of knee cartilage, obesity and the initiation of osteoarthritis, the mechanics of anterior cruciate ligament (ACL) injury/treatment and the causes of premature osteoarthritis following ligament and meniscus injury. The BioMotion Laboratory conducts translational research to develop interventions for the prevention of ACL injury and osteoarthritis at the knee. The BioMotion Laboratory is also recognized as a leader in the development of new methods for the capture of human movement.
+Blurb: The BioMotion Laboratory explores sports injury and osteoarthritis through examination of the mechanics and biology of movement.
 Led by: Director Thomas Andriacchi 
 Website: http://stanford.edu/group/biomotion
 
 ##### Brown Institute for Media Innovation
-Blurb:
+Blurb: The Brown Institute for Media Innovation is a collaborative effort between Stanford Univeristy and Columbia University. The Institute works to sponsor research into how media stories are discovered and propogated in a digital world.
 Led by: Director Bernd Girod
 Website: http://brown.stanford.edu
 
 ##### Center for Turbulence Research
-Blurb:
+Blurb: The Center for Turbulence Research, a joint effort between Stanford University and the National Aeronautics and Space Administration (NASA), researches the mechanics of turbulence and  non-linear multi-scale phenomena for engineering analysis.
 Led by: Parviz Moin
 Website: http://ctr.stanford.edu
 
 ##### Collaborative Haptics And Robotics in Medicine (CHARM) Lab
-Blurb:
+Blurb: Housed in the Mechanical Engineering Department as part of the Biomechanics and Design groups at Stanford University, CHARM researches, studies, and designs haptic systems through experimentation and analysis
 Led by: Principal Investigator Allison Okamura
 Website: http://charm.stanford.edu
 
 ##### Computer Systems Laboratory
-Blurb:
+Blurb: A collaborative effort between the Electrical Engineering and Computer Science departments at Stanford University, the Computer Systems Laboratory researches and explores the fields of operating systems, computer networking, special architectures, compilers, programming languages, information management, graphics, security, reliability and fault tolerance, system specification and verification, user interfaces, integrated circuit design and special computer architectures.
 Led by: Mendel Rosenblum
 Website: http://csl.stanford.edu
 
 ##### Edward L. Ginzton Laboratory
-Blurb:
+Blurb: The Ginzton Laboratory is an interdisciplinary research lab that explores the interaction and combination of quantum science and engineering, photonic science and engineering, and nanoscience and engineering.
 Led by: Olav Solgaard
 Website: http://stanford.edu/group/ginzton
 
 ##### Engineering Risk Research Group
-Blurb:
+Blurb: Housed in the Department of Management Science & Engineering, the Engineering Risk Research Group studies the analysis, mathematical modeling, and management of the safety of engineering systems using probabilistic methods and systems analysis.
 Led by: M. Elisabeth Paté-Cornell
 Website: http://web.stanford.edu/group/ERRG
 
 ##### Environmental Fluid Mechanics Laboratory
-Blurb:
+Blurb: Housed in the Department of Civil and Environmental Engineering at Stanford University, the Environmental Fluid Mechanics Laboratory researches the turbulence and mixing in natural flows, natural and forced convection in energy systems, energy and mass transfer between the ocean and the atmosphere, mesoscale phenomena in the oceans and surface layers of the atmosphere, and transport and mixing of pollutants at regional and global scales in the atmosphere through both experimental and computational methods
 Led by: Stephen Monismith
 Website: http://cee.stanford.edu/programs/efml/index.html
 
 ##### Geballe Laboratory for Advanced Materials (GLAM)
-Blurb:
+Blurb: The Geballe Laboratory for Advanced Materials performs interdisciplinary education and research on advanced materials in science and engineering.
 Led by: Directors Paul McIntyre & Zhi-xun Shen
 Website: http://glam.stanford.edu
 
@@ -70,30 +70,25 @@ Blurb: The Global Climate and Energy Project (GCEP) at Stanford University seeks
 Led by: Director Sally Benson
 Webstie: gcep.stanford.edu
 
-##### Gravity Probe B Project
-Blurb:
-Led by: Principal Investigator C.W.F. Everitt
-Website: http://einstein.stanford.edu
-
 ##### Stanford GSB Entrepreneur Club
-Blurb:
-Led by:
-Website: http://www.gsbeclub.org/startup-resources
+Blurb: The GSB Entrepreneur Club is the largest professional club at the GSB and faces a responsibility to promote the understanding and development of starting new companies. 
+Led by: Roi Chobadi, Bastiaan Janmaat, Katie Fifer, and Alex Gelman
+Website: http://gsbeclub.org/startup-resources
 
 ##### Hansen Experimental Physics Laboratory
-Blurb:
+Blurb: The Hansen Experimental Physics Laboratory supports interdisciplinary research programs in fundamental science and engineering, particularly space physics, astrophysics, and cryogenics.
 Led by: Director Peter Michelson
 Website: http://stanford.edu/group/hepl
 
 ##### Stanford HCI Group
-Blurb: 
+Blurb: The Stanford Human Computer Interaction (HCI) group, housed in the Department of Computer Science, researches topics in design, implementation, testing and analysis.
 Led by: Professor Michael Bernstein
 Website: http://hci.stanford.edu
 
 ##### High Temperature Gasdynamics Laboratory
-Blurb:
+Blurb: As part of the Thermosciences Group in the Department of Mechanical Engineering, the High Temperature Gasdynamics Laboratory (HTGL) is an interdisciplinary research group that focuses on the fusion of atomic physics, electro-optics, electromagnetics, fluid mechanics, and heat transfer.
 Led by: Director Reginald Mitchell
-Website: http://thermosciences.stanford.edu/labs/lab_gasdynamic.html
+Website: http://navier.stanford.edu/thermosciences/htgl.html
 
 ##### Information Systems Laboratory
 Blurb: The research at the Information Systems Laboratory at Stanford primarily focuses on studying algorithms and their mathematical underpinnings to better understand and develop their broad range of applications. Topics of interest include information theory and coding, control and optimization, signal processing, and learning and statistical inference. Interdisciplinary research in the blab includes collaboration with colleagues in Electrical Engineering, Computer Science, Statistics, Management Science, Aeronautics, Computational and Mathematical Engineering, Biological Sciences, Psychology, Medicine, and Business.
