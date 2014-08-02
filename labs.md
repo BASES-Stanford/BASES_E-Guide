@@ -16,12 +16,12 @@ Led by: Director Ilan Kroo
 Website: http://aero.stanford.edu/ADG.html
 
 ##### Stanford Artificial Intelligence Laboratory
-Blurb: The Stanford Artificial Intelligence Laboratory, under the Department of Computer Science, performs cutting-edge research in machine learning, logic, natural language processing, probabilistic graphical models, and decision making under uncertainty.
-Led by: Fei-Fei Li
+Blurb: The Stanford Artificial Intelligence Laboratory (SAIL), under the Department of Computer Science, performs cutting-edge research in machine learning, logic, natural language processing, probabilistic graphical models, and decision making under uncertainty.
+Led by: Director Fei-Fei Li
 Website: http://ai.stanford.edu
 
 ##### Biomotion Research Group
-Blurb: The BioMotion Laboratory explores sports injury and osteoarthritis through examination of the mechanics and biology of movement.
+Blurb: The Biomotion Research Group explores sports injury and osteoarthritis through examination of the mechanics and biology of movement.
 Led by: Director Thomas Andriacchi 
 Website: http://stanford.edu/group/biomotion
 
@@ -36,11 +36,11 @@ Led by: Parviz Moin
 Website: http://ctr.stanford.edu
 
 ##### Collaborative Haptics And Robotics in Medicine (CHARM) Lab
-Blurb: Housed in the Mechanical Engineering Department as part of the Biomechanics and Design groups at Stanford University, CHARM researches, studies, and designs haptic systems through experimentation and analysis
+Blurb: Housed in the Mechanical Engineering Department as part of the Biomechanics and Design groups at Stanford University, CHARM researches, studies, and designs haptic systems through experimentation and analysis.
 Led by: Principal Investigator Allison Okamura
 Website: http://charm.stanford.edu
 
-##### Computer Systems Laboratory
+##### Computer Systems Laboratory (CSL)
 Blurb: A collaborative effort between the Electrical Engineering and Computer Science departments at Stanford University, the Computer Systems Laboratory researches and explores the fields of operating systems, computer networking, special architectures, compilers, programming languages, information management, graphics, security, reliability and fault tolerance, system specification and verification, user interfaces, integrated circuit design and special computer architectures.
 Led by: Mendel Rosenblum
 Website: http://csl.stanford.edu
@@ -56,7 +56,7 @@ Led by: M. Elisabeth Paté-Cornell
 Website: http://web.stanford.edu/group/ERRG
 
 ##### Environmental Fluid Mechanics Laboratory
-Blurb: Housed in the Department of Civil and Environmental Engineering at Stanford University, the Environmental Fluid Mechanics Laboratory researches the turbulence and mixing in natural flows, natural and forced convection in energy systems, energy and mass transfer between the ocean and the atmosphere, mesoscale phenomena in the oceans and surface layers of the atmosphere, and transport and mixing of pollutants at regional and global scales in the atmosphere through both experimental and computational methods
+Blurb: Housed in the Department of Civil and Environmental Engineering at Stanford University, the Environmental Fluid Mechanics Laboratory researches the turbulence and mixing in natural flows, natural and forced convection in energy systems, energy and mass transfer between the ocean and the atmosphere, mesoscale phenomena in the oceans and surface layers of the atmosphere, and transport and mixing of pollutants at regional and global scales in the atmosphere through both experimental and computational methods.
 Led by: Stephen Monismith
 Website: http://cee.stanford.edu/programs/efml/index.html
 
@@ -73,15 +73,15 @@ Webstie: gcep.stanford.edu
 ##### Stanford GSB Entrepreneur Club
 Blurb: The GSB Entrepreneur Club is the largest professional club at the GSB and faces a responsibility to promote the understanding and development of starting new companies. 
 Led by: Roi Chobadi, Bastiaan Janmaat, Katie Fifer, and Alex Gelman
-Website: http://gsbeclub.org/startup-resources
+Website: http://gsbeclub.org/
 
 ##### Hansen Experimental Physics Laboratory
 Blurb: The Hansen Experimental Physics Laboratory supports interdisciplinary research programs in fundamental science and engineering, particularly space physics, astrophysics, and cryogenics.
 Led by: Director Peter Michelson
 Website: http://stanford.edu/group/hepl
 
-##### Stanford HCI Group
-Blurb: The Stanford Human Computer Interaction (HCI) group, housed in the Department of Computer Science, researches topics in design, implementation, testing and analysis.
+##### Stanford Human-Computer Interaction Group
+Blurb: The Stanford Human-Computer Interaction (HCI) group, housed in the Department of Computer Science, researches topics in design, implementation, testing and analysis.
 Led by: Professor Michael Bernstein
 Website: http://hci.stanford.edu
 
@@ -102,12 +102,12 @@ Website: http://blume.stanford.edu
 
 ##### Manufacturing Modeling Lab
 Blurb: The Manufacturing Modeling Lab focuses on the design and utilization of manufacturing models. The interdisciplinary research includes working relationships with the Graduate School of business, Center for Design Research (CDR), Center for Integrated Facilities Engineering (CIFE), and Work Systems and Collaborative Research Lab (CRL/MS&E). The Lab focuses on developing and testing structured decision making techniques aimed at generating robustness, reliability, servicability, variety, flexibility and sustainability.
-Led by: Director: Kurt Beiter
+Led by: Director Kurt Beiter
 Website: http://kbeiter@stanford.edu
 
 ##### Max Planck Center for Visual Computing and Communication
 Blurb: This Center is a joint program between Stanford University and the Max Planck Society for the Advancement of Science (MPG) focused on the information technology area of “Visual Computing and Communication.” This center is intended for German scientists, not necessarily Stanford Students!
-Led by: Faculty Director: Bernd Girod
+Led by: Director Bernd Girod
 Website: http://mpc-vcc.org
 
 ##### MIT/Stanford Venture Lab
@@ -125,8 +125,8 @@ Blurb: “The Epicenter” is focused on enabling undergraduate engineering stud
 Led by: Principal Investigator Tom Byers
 Website: http://epicenter.stanford.edu
 
-##### Product Realization Laboratory
-Blurb: The Stanford Product Realization Laboratory is focused on giving students practical and insightful experiences in the development of soft goods, electronics, metal and mechatronics devices with design engineering software, and sophisticated tools.
+##### Product Realization Laboratory (PRL)
+Blurb: The Stanford Product Realization Laboratory (PRL) is focused on giving students practical and insightful experiences in the development of soft goods, electronics, metal and mechatronics devices with design engineering software, and sophisticated tools.
 Led by: Co-Directors David Beach & Craig Milroy
 Website: http://prl.stanford.edu
 
@@ -147,7 +147,7 @@ Website: http://design.stanford.edu
 
 ##### Stanford Technology Ventures Program (STVP)
 Blurb: The Stanford Technology Ventures Program (STVP) is the entrepreneurship center at Stanford University's School of Engineering. STVP is hosted by the department of Management Science and Engineering. STVP's mission is dedicated to accelerating high-technology entrepreneurship education and creating scholarly research on technology-based firms that, in turn, provides new insights for students, scholars, and business leaders.
-Led by: Co-directors Thomas Byers and Kathleen Eisenhardt
+Led by:  Thomas Byers and Kathleen Eisenhardt
 Contact: Entrepreneurship Concierge Angela Hayward (ahayward@stanford.edu)
 Website: http://stvp.stanford.edu
 
@@ -156,7 +156,7 @@ Blurb: The Stanford Venture Studio is a space offered by the Stanford Graduate S
 Contact: Whitney Flynn
 Website: http://gsb.stanford.edu/ces/students/venture-studio
 
-##### Virtual Human Interaction Lab
+##### Virtual Human Interaction Lab (VHIL)
 Blurb: The Stanford Virtual Human Interaction Lab is dedicated to understanding the dynamics and implications of interactions among people in the virtual reality world, such as in immersive virtual reality simulations as well as other forms of digital representations in media, communication systems and games. The lab uses tools and techniques such as behavior science methodologies and three-dimensional modeling techniques in order to understand important social questions on the interface between real and virtual human interaction, as well as the potential for these kinds of virtual, simulated interactions to improve everyday life.
 Led by: Director Jeremy Bailenson
 Website: http://vhil.stanford.edu
