@@ -4,7 +4,7 @@ Contributing to the BASES E-Guide is easy! The E-Guide is written in the Markdow
 
 ### Markdown:
 
-Markdown (.md) is a file format that is very similar to normal text (.txt) files. For a quick crash course on Markdown check out this [cheat sheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Markdown (.md) is a file format that is very similar to normal text (.txt) files. For a quick crash course on Markdown check out this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ### Editing a Page
 
