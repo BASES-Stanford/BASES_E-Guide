@@ -1,7 +1,7 @@
 # Startup Resources & Non-Student Organizations
 
-##### AIMS (Association of Industry-Minded Stanford Professionals) 
-Brief: AIMS is the Association of Industry-Minded Stanford Professionals, an organization created to streamline start-up and industry-related education and networking for the 1,800+ Stanford Postdocs - focusing on Postdoc specific solutions. We educate on the entrepreneurial process, raise awareness and access to key resources, and assist with networking.  AIMS is a postdoc organization that also welcomes exceptional non-postdoc participation.
+##### Association of Industry-Minded Stanford Professionals (AIMS) 
+Brief: The Association of Industry-Minded Stanford Professionals (AIMS), an organization created to streamline start-up and industry-related education and networking for the 1,800+ Stanford Postdocs - focusing on Postdoc specific solutions. We educate on the entrepreneurial process, raise awareness and access to key resources, and assist with networking.  AIMS is a postdoc organization that also welcomes exceptional non-postdoc participation.
 Website: https://sen.stanford.edu/member/aims-association-industry-minded-stanford-professionals
 Contact: NA
 

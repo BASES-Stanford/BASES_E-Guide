@@ -80,12 +80,12 @@ Blurb: The Hansen Experimental Physics Laboratory supports interdisciplinary res
 Led by: Peter Michelson
 Website: http://stanford.edu/group/hepl
 
-##### Stanford Human-Computer Interaction Group
+##### Stanford Human-Computer Interaction (HCI) Group
 Blurb: The Stanford Human-Computer Interaction (HCI) group, housed in the Department of Computer Science, researches topics in design, implementation, testing and analysis.
 Led by: Michael Bernstein
 Website: http://hci.stanford.edu
 
-##### High Temperature Gasdynamics Laboratory
+##### High Temperature Gasdynamics Laboratory (HGTL)
 Blurb: As part of the Thermosciences Group in the Department of Mechanical Engineering, the High Temperature Gasdynamics Laboratory (HTGL) is an interdisciplinary research group that focuses on the fusion of atomic physics, electro-optics, electromagnetics, fluid mechanics, and heat transfer.
 Led by: Reginald Mitchell
 Website: http://navier.stanford.edu/thermosciences/htgl.html

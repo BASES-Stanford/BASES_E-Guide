@@ -16,7 +16,7 @@ Brief: The GSB Entrepreneurship Club is one of the oldest student-run entreprene
 Website: http://www.gsbeclub.org/
 Contact: General Club Email: eclub_exec_team@gsb.stanford.edu
 
-##### Society for Entrepreneurship in Latin America
+##### Society for Entrepreneurship in Latin America (SELA)
 Brief: The Society for Entrepreneurship in Latin America aims to create and educate a network of future leaders in business, technology, and social innovation in the Americas in order to foster a global entrepreneurship community aware of Latin American affairs.
 Website: http://sela.stanford.edu/
 Contact: Yael Wulfovich (President)-yaelw@stanford.edu; Anais Saint-Jude-anais.saint-jude@stanford.edu
@@ -33,7 +33,7 @@ Brief: Stanford IEEE is Stanford's student chapter of the Institute of Electrica
 Website: http://ieee.stanford.edu/
 Contact: General/Chair-ieee@ee.stanford.edu
 
-##### Stanford Law & Technology Association
+##### Stanford Law & Technology Association (SLATA)
 Brief: Since 1984 the Stanford Law and Technology Association (SLATA) has engaged the Stanford community with thought leaders at the intersections of law, policy, science, and technology. SLATA’s events foster a vibrant intellectual dialogue about the novel and challenging legal questions that coincide with technological innovation.For Stanford Law students, SLATA brings in lawyers, academics, and policy makers to speak about cutting edge issues at the intersection of law and technology, introducing students to the people dealing with these issues every day. SLATA also maintains several technology resources for students, including online bookstores that sponsor student benefits and a comprehensive database of course outlines.
 Website: http://slata.stanford.edu/ 
 Contact: Co-Presidents: Jonathan Schatz-jtschatz@gmail.com and Lisa Li-lxl1@stanford.edu
@@ -44,7 +44,7 @@ Brief: To connect Stanford Law School students interested in entrepreneurship to
 Website: http://www.law.stanford.edu/organizations/student-organizations/sls-entrepreneurship-club
 Contact: Co-presidents: Braine Cornish (brianek@stanford.edu), Mark Mallery (mmallery@stanford.edu)
 
-##### Stanford Students in Biodesign
+##### Stanford Students in Biodesign (SSB)
 Brief: SSB's initiatives are designed to bring the biotechnology, pharmaceutical, and medical device industries to Stanford. We design and run two courses to introduce students to various fields and careers, and allow them to hear from influential members of industry and academia. Our team hosts an annual Stanford Medical Innovation Conference on a novel and burgeoning technology area, summoning high profile pioneers to share their innovation and an audience from across the nation. SSB also organizes several events for students including talks, tours of Stanford labs and company R&D labs, student-industry mixers, one-on-one advisory meetings with industry members in our network, and more!
 Website: https://sites.google.com/site/ssbinformation/ 
 Contact: General Information & Questions or sponsorship packet- Executive Team (ssb.information@gmail.com)
