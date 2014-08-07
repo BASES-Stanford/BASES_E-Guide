@@ -78,11 +78,6 @@ Contact: sprie-stanford@stanford.edu
 ##### Stanford School of Medicine SPARK 
 Brief: SPARK was created as an innovative, cost-effective way to overcome the hurdles associated with translating academic discoveries into drugs or diagnostics that address real clinical needs. The SPARK mission is two-fold: To help academicians overcome the obstacles involved in moving research innovations from bench to bedside; To educate faculty, postdoctoral fellows and graduate students on the translational research process and path to clinical application so that development of promising discoveries becomes second nature within our institution.
 Website: http://sparkmed.stanford.edu
-Contact:
-
-##### Stanford Technology Ventures Program (STVP)
-Brief: 
-Website: http://stvp.stanford.edu
 Contact: sparkmed@stanford.edu
 
 ##### StartX 
@@ -90,7 +85,7 @@ Brief: StartX is a non-profit organization whose mission is to accelerate the de
 Website: http://startx.stanford.edu
 Contact: http://startx.stanford.edu
 
-##### TomKat Energt Innovation Transfer Program
+##### TomKat Energy Innovation Transfer Program
 Brief: The Energy Innovation Transfer Program helps inventors bridge the gap between sponsored research and technology commercialization through targeted funding to help facilitate development of prototypes, conduct market research and refine business plans. The latter will heavily leverage the many on-campus entrepreneurship resources. The Energy Innovation Transfer Program advisory board, mentors and affiliates will provide input as part of the proposal evaluation process and provide mentorship and guidance to individual projects.
 Website: http://tomkat.stanford.edu/innovation
 Contact: Danica Sarlya @ (650)-724-1524
