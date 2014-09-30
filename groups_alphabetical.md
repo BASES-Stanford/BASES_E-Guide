@@ -52,7 +52,7 @@ Contact: General Information & Questions or sponsorship packet- Executive Team (
 ##### Stanford Student Space Initiative
 Brief: Our mission is to change the space culture at Stanford by cultivating space entrepreneurship and strengthening the Stanford space community.
 Website: http://spaceinitiative.stanford.edu/
-Contact: David Gerson-dtgerson@stanford.edu
+Contact: Co-Presidents Robert Jackson (rgj@stanford.edu), Charlie Cox (ccox13@stanford.edu)
 
 ##### Stanford Venture Capital Club (SVCC)
 Brief: SVCC is a student-run organization that assists venture capital firms in identifying investment opportunities and educates students about the venture capital industry.
