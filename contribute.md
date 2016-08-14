@@ -22,4 +22,4 @@ Once your pull request has been submitted, please allow 24 hours for the Tech Sa
 
 ### Questions?
 
-If you have any questions or concerns about the E-Guide, please do not hesitate to email 2014-2015 BASES Tech Savant Joseph Baena at jbaena@stanford.edu.
+If you have any questions or concerns about the E-Guide, please contact the Tech Savant.
